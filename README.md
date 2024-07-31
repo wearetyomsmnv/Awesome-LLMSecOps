@@ -1,4 +1,4 @@
-# 🚀 Awesome LLMSecOps
+# 🚀 Awesome LLMSecOps 
 
 <div align="center">
 
@@ -9,13 +9,14 @@
 
 🔐 A curated list of awesome resources for LLMSecOps (Large Language Model Security Operations) 🧠
 
-[Introduction](#introduction) • [Tools](#tools) • [Frameworks](#frameworks) • [Best Practices](#best-practices) • [Research](#research) • [Tutorials](#tutorials) • [Community](#community)
+### by @wearetyomsmnv
+
+[Introduction](#introduction) • [Architecture](#architecture) • [Vulnerabilities](#vulnerabilities-desctiption-by-giskard) • [Tools](#-tools-for-scanning) • [Defense](#️defense) • [Threat Modeling](#threat-modeling) • [Jailbreaks](#jailbreaks) • [RAG Security](#rag-security) • [PoC](#poc) • [Study Resources](#study-resource) • [Books](#-books) • [BLOGS and DATA](#blogs-and-data) • [OPS](#ops) • [Frameworks](#-frameworks) • [Best Practices](#-best-practices) • [Research](#-research-papers) • [Tutorials](#-tutorials) • [Companies](#companies) • [Community](#-community)
 
 </div>
 
----
 
-## 📚 Introduction
+## Introduction
 
 LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well as what threats may be encountered along the way. Everyone is welcome to contribute. 
 
@@ -23,15 +24,277 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ---
 
-## 🛠 Tools
+
+## Architecture
+
+![image](https://github.com/user-attachments/assets/b3bccddb-8396-4a14-8b67-76905124d88a)
+
+## Vulnerabilities desctiption by Giskard
+
+| Vulnerability | Description |
+|---------------|-------------|
+| Hallucination and Misinformation | These vulnerabilities often manifest themselves in the generation of fabricated content or the spread of false information, which can have far-reaching consequences such as disseminating misleading content or malicious narratives. |
+| Harmful Content Generation | This vulnerability involves the creation of harmful or malicious content, including violence, hate speech, or misinformation with malicious intent, posing a threat to individuals or communities. |
+| Prompt Injection | Users manipulating input prompts to bypass content filters or override model instructions can lead to the generation of inappropriate or biased content, circumventing intended safeguards. |
+| Robustness | The lack of robustness in model outputs makes them sensitive to small perturbations, resulting in inconsistent or unpredictable responses that may cause confusion or undesired behavior. |
+| Output Formatting | When model outputs do not align with specified format requirements, responses can be poorly structured or misformatted, failing to comply with the desired output format. |
+| Information Disclosure | This vulnerability occurs when the model inadvertently reveals sensitive or private data about individuals, organizations, or entities, posing significant privacy risks and ethical concerns. |
+| Stereotypes and Discrimination | If model's outputs are perpetuating biases, stereotypes, or discriminatory content, it leads to harmful societal consequences, undermining efforts to promote fairness, diversity, and inclusion. |
+
+<div align="center">
+
+<h2>🛠 Tools for scanning</h2>
+
+<table>
+<tr>
+<th>Tool</th>
+<th>Description</th>
+<th>Stars</th>
+</tr>
+<tr>
+<td><a href="https://github.com/leondz/garak">🔧 Garak</a></td>
+<td>LLM vulnerability scanner</td>
+<td><img src="https://img.shields.io/github/stars/leondz/garak?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/prompt-security/ps-fuzz">🔧 ps-fuzz 2</a></td>
+<td>Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt</td>
+<td><img src="https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/pasquini-dario/LLMmap">🗺️ LLMmap</a></td>
+<td>Tool for mapping LLM vulnerabilities</td>
+<td><img src="https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/msoedov/agentic_security">🛡️ Agentic Security</a></td>
+<td>Security toolkit for AI agents</td>
+<td><img src="https://img.shields.io/github/stars/msoedov/agentic_security?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Mindgard/cli">🧠 Mindgard CLI</a></td>
+<td>Command-line interface for Mindgard security tools</td>
+<td><img src="https://img.shields.io/github/stars/Mindgard/cli?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/LostOxygen/llm-confidentiality">🔒 LLM Confidentiality</a></td>
+<td>Tool for ensuring confidentiality in LLMs</td>
+<td><img src="https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social" alt="GitHub stars"></td>
+</tr>
+</table>
+
+<h2>🛡️Defense</h2>
+
+<table>
+<tr>
+<th>Tool</th>
+<th>Description</th>
+<th>Stars</th>
+</tr>
+<tr>
+<td><a href="https://github.com/protectai/rebuff">🛡️ Rebuff</a></td>
+<td>API with built-in rules for identifying prompt injection and detecting data leakage through canary words.</td>
+<td><img src="https://img.shields.io/github/stars/protectai/rebuff?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/laiyer-ai/llm-guard">🔒 LLM Guard</a></td>
+<td>Self-hostable tool with multiple prompt and output scanners for various security issues.</td>
+<td><img src="https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/NVIDIA/NeMo-Guardrails">🚧 NeMo Guardrails</a></td>
+<td>Tool that protects against jailbreak and hallucinations with customizable rulesets.</td>
+<td><img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/deadbits/vigil-llm">👁️ Vigil</a></td>
+<td>Offers dockerized and local setup options, using proprietary HuggingFace datasets for security detection.</td>
+<td><img src="https://img.shields.io/github/stars/deadbits/vigil-llm?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/whylabs/langkit">🧰 LangKit</a></td>
+<td>Provides functions for jailbreak detection, prompt injection, and sensitive information detection.</td>
+<td><img src="https://img.shields.io/github/stars/whylabs/langkit?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/ShreyaR/guardrails">🛠️ GuardRails AI</a></td>
+<td>Focuses on functionality, detects presence of secrets in responses.</td>
+<td><img src="https://img.shields.io/github/stars/ShreyaR/guardrails?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://huggingface.co/Epivolis/Hyperion">🦸 Hyperion Alpha</a></td>
+<td>Detects prompt injections and jailbreaks.</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td><a href="https://github.com/protectai/llm-guard">🛡️ LLM-Guard</a></td>
+<td>Tool for securing LLM interactions.</td>
+<td><img src="https://img.shields.io/github/stars/protectai/llm-guard?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Repello-AI/whistleblower">🚨 Whistleblower</a></td>
+<td>Tool for detecting and preventing LLM vulnerabilities.</td>
+<td><img src="https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/safellama/plexiglass">🔍 Plexiglass</a></td>
+<td>Security tool for LLM applications.</td>
+<td><img src="https://img.shields.io/github/stars/safellama/plexiglass?style=social" alt="GitHub stars"></td>
+</tr>
+</table>
+
+</div>
+
+
+---
+
+## Threat Modeling
+
+| Tool | Description |
+|------|-------------|
+| [Secure LLM Deployment: Navigating and Mitigating Safety Risks](https://arxiv.org/pdf/2406.11007) | Research paper on LLM security [sorry, but is really cool] |
+| [ThreatModels](https://github.com/jsotiro/ThreatModels/tree/main) | Repository for LLM threat models |
+| [Threat Modeling LLMs](https://aivillage.org/large%20language%20models/threat-modeling-llm/) | AI Village resource on threat modeling for LLMs |
+
+![image](https://github.com/user-attachments/assets/0adcabdf-1afb-4ab2-aa8c-eef75c229842)
+![image](https://github.com/user-attachments/assets/ed4340ad-ee95-47b3-8661-2660a2b0472e)
+
+## Jailbreaks
+
+| Resource | Description |
+|----------|-------------|
+| [JailbreakBench](https://jailbreakbench.github.io/) | Website dedicated to evaluating and analyzing jailbreak methods for language models |
+| [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
+
+## RAG Security
+
+| Resource | Description |
+|----------|-------------|
+| [Security Risks in RAG](https://ironcorelabs.com/security-risks-rag/) | Article on security risks in Retrieval-Augmented Generation (RAG) |
+| [How RAG Poisoning Made LLaMA3 Racist](https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.repello.ai%2Fhow-rag-poisoning-made-llama3-racist-1c5e390dd564) | Blog post about RAG poisoning and its effects on LLaMA3 |
+| [Adversarial AI - RAG Attacks and Mitigations](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG) | GitHub repository on RAG attacks, mitigations, and defense strategies |
+| [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) | GitHub repository about poisoned RAG systems |
+
+## PoC
 
 | Tool | Description | Stars |
 |------|-------------|-------|
-| [🔧 Garak](https://github.com/leondz/garak) | LLM vulnerability scanner | ![GitHub stars](https://img.shields.io/github/stars/leondz/garak?style=social) |
-| [🔧 ps-fuzz 2](https://github.com/prompt-security/ps-fuzz) | Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt | ![GitHub stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social) |
+| [Visual Adversarial Examples](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Jailbreaking Large Language Models with Visual Adversarial Examples | ![GitHub stars](https://img.shields.io/github/stars/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models?style=social) |
+| [Weak-to-Strong Generalization](https://github.com/XuandongZhao/weak-to-strong) | Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision | ![GitHub stars](https://img.shields.io/github/stars/XuandongZhao/weak-to-strong?style=social) |
+| [Image Hijacks](https://github.com/euanong/image-hijacks) | Repository for image-based hijacks of large language models | ![GitHub stars](https://img.shields.io/github/stars/euanong/image-hijacks?style=social) |
+| [CipherChat](https://github.com/RobustNLP/CipherChat) | Secure communication tool for large language models | ![GitHub stars](https://img.shields.io/github/stars/RobustNLP/CipherChat?style=social) |
+| [LLMs Finetuning Safety](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) | Safety measures for fine-tuning large language models | ![GitHub stars](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety?style=social) |
+| [Virtual Prompt Injection](https://github.com/wegodev2/virtual-prompt-injection) | Tool for virtual prompt injection in language models | ![GitHub stars](https://img.shields.io/github/stars/wegodev2/virtual-prompt-injection?style=social) |
+| [FigStep](https://github.com/ThuCCSLab/FigStep) | Jailbreaking Large Vision-language Models via Typographic Visual Prompts | ![GitHub stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep?style=social) |
+
+
+---
+
+## Study resource
+
+| Tool | Description | 
+|------|-------------|
+| [Gandalf](https://gandalf.lakera.ai/) | Interactive LLM security challenge game |
+| [Prompt Airlines](https://promptairlines.com/) | Platform for learning and practicing prompt engineering |
+| [PortSwigger LLM Attacks](https://portswigger.net/web-security/llm-attacks/) | Educational resource on WEB LLM security vulnerabilities and attacks |
+| [DeepLearning.AI Red Teaming Course](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) | Short course on red teaming LLM applications |
+| [Learn Prompting: Offensive Measures](https://learnprompting.org/docs/prompt_hacking/offensive_measures/) | Guide on offensive prompt engineering techniques |
+| [Application Security LLM Testing](https://application.security/free/llm) | Free LLM security testing  |
+| [Salt Security Blog: ChatGPT Extensions Vulnerabilities](https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data) | Article on security flaws in ChatGPT browser extensions |
+
+
+![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
+
+## 📊 Research Papers
+
+| Title | Authors | Year | Citations |
+|-------|---------|------|-----------|
+| [📄 Bypassing Meta’s LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
+| [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
+
+## 🎓 Tutorials
+
+1. [📚 HADESS - Web LLM Attacks](https://hadess.io/web-llm-attacks/)
+   - Understand how u can do attack in web via llm
+2. [📚 Red Teaming with LLMs](https://redteamrecipe.com/red-teaming-with-llms)
+   - Practical Techniques for attacking ai systems
+3. [📚 Lakera LLM Security](https://www.lakera.ai/blog/llm-security)
+   - Overwiev for attacks on llm
+
+## 📚 Books
+
+| 📖 Title | 🖋️ Author(s) | 🔍 Description |
+|----------|--------------|----------------|
+| [The Developer's Playbook for Large Language Model Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) | Steve Wilson  | 🛡️ Comprehensive guide for developers on securing LLMs |
+| [Generative AI Security: Theories and Practices (Future of Business and Finance)](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517) | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | 🔬 In-depth exploration of security theories, laws, terms and practices in Generative AI |
+
+
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>BLOGS</h3>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr><td align="center">https://embracethered.com/blog/</td></tr>
+        <tr><td align="center">🐦 https://twitter.com/llm_sec</td></tr>
+        <tr><td align="center">🐦 https://twitter.com/LLM_Top10</td></tr>
+        <tr><td align="center">🐦 https://twitter.com/aivillage_dc</td></tr>
+        <tr><td align="center">🐦 https://twitter.com/elder_plinius/</td></tr>
+        <tr><td align="center">https://hiddenlayer.com/</td></tr>
+        <tr><td align="center">https://t.me/pwnai</td></tr>
+        <tr><td align="center">https://github.com/sinanw/llm-security-prompt-injection</td></tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>DATA</h3>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr><td align="center"><a href="https://github.com/annjawn/llm-safety-privacy">Safety and privacy with Large Language Models</a><br>GitHub repository on LLM safety and privacy</td></tr>
+        <tr><td align="center"><a href="https://github.com/verazuo/jailbreak_llms/tree/main/data">Jailbreak LLMs</a><br>Data for jailbreaking Large Language Models</td></tr>
+        <tr><td align="center"><a href="https://github.com/LouisShark/chatgpt_system_prompt">ChatGPT System Prompt</a><br>Repository containing ChatGPT system prompts</td></tr>
+        <tr><td align="center"><a href="https://github.com/Libr-AI/do-not-answer">Do Not Answer</a><br>Project related to LLM response control</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
+
+## OPS 
+
+![image](https://github.com/user-attachments/assets/e7fe456e-4dc5-447c-90b4-392844d938e9)
+
+| Resource | Description |
+|----------|-------------|
+| https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/ | LLMJacking: Stolen Cloud Credentials Used in New AI Attack |
+| https://huggingface.co/docs/hub/security | Hugging Face Hub Security Documentation |
+| https://developer.nvidia.com/blog/secure-llm-tokenizers-to-maintain-application-integrity/ | Secure LLM Tokenizers to Maintain Application Integrity |
+| https://sightline.protectai.com/ | Sightline by ProtectAI <br><br>Check vulnerabilities on:<br>• Nemo by Nvidia<br>• Deep Lake<br>• Fine-Tuner AI<br>• Snorkel AI<br>• Zen ML<br>• Lamini AI<br>• Comet<br>• Titan ML<br>• Deepset AI<br>• Valohai<br><br>**For finding LLMops tools vulnerabilities** |
+
+---
+
+## 🏗 Frameworks
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>OWASP LLM TOP 10</b></sub></a><br />10 vulnerabilities for llm</td>
+    <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-governance-doc/LLM_AI_Security_and_Governance_Checklist-v1.pdf"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>LLM AI Cybersecurity & Governance Checklist 2</b></sub></a><br />Brief explanation</td>
+  </tr>
+</table>
+</div>
+
+
+
+## 💡 Best Practices
+
+<table align="center"> <tr> <td align="center"> <h3>OWASP LLMSVS</h3> <p><strong>Large Language Model Security Verification Standard</strong></p> <p><a href="https://owasp.org/www-project-llm-verification-standard/">Project Link</a></p> </td> </tr> <tr> <td align="center"> <p>The primary aim of the OWASP LLMSVS Project is to provide an open security standard for systems which leverage artificial intelligence and Large Language Models.</p> <p>The standard provides a basis for designing, building, and testing robust LLM backed applications, including:</p> <ul style="list-style-type: none; padding: 0;"> <li>Architectural concerns</li> <li>Model lifecycle</li> <li>Model training</li> <li>Model operation and integration</li> <li>Model storage and monitoring</li> </ul> </td> </tr> </table> </div>
+
+
+---
+
+## Companies
 
 | Name | LLM Security Capabilities | URL |
 |------|---------------------------|-----|
@@ -45,51 +308,6 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | Rebuff | Self-hardening prompt injection detector for AI applications, using a multi-layered protection mechanism. | https://github.com/rebuff |
 | Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.whylabs.ai/ |
 | WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/
-
-
-## DATA
-
-[Safety and privacy with Large Language Models](https://github.com/annjawn/llm-safety-privacy) 
-
-## 🏗 Frameworks
-
-<table>
-  <tr>
-    <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>OWASP LLM TOP 10</b></sub></a><br />10 vulnerabilities for llm</td>
-    <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-governance-doc/LLM_AI_Security_and_Governance_Checklist-v1.pdf"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>LLM AI Cybersecurity & Governance Checklist 2</b></sub></a><br />Brief explanation</td>
-  </tr>
-</table>
-
----
-
-## 💡 Best Practices
-
-<details>
-<summary>OWASP LLMSVS</summary>
-OWASP LLMSVS - https://owasp.org/www-project-llm-verification-standard/
-</details>
-
-
----
-
-
-## 📊 Research Papers
-
-| Title | Authors | Year | Citations |
-|-------|---------|------|-----------|
-| [📄 Bypassing Meta’s LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
-| [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
-
----
-
-## 🎓 Tutorials
-
-1.  [📚 HADESS - Web LLM Attacks](https://hadess.io/web-llm-attacks/)
-   - Understand how u can do attack in web via llm
-2. [📚 Red Teaming with LLMs](https://redteamrecipe.com/red-teaming-with-llms)
-   - Practical Techniques for attacking ai systems
-3. [📚 Lakera LLM Security](https://www.lakera.ai/blog/llm-security)
-   - Overwiev for attacks on llm
 
 ---
 
