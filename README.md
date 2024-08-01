@@ -196,7 +196,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [LLMs Finetuning Safety](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) | Safety measures for fine-tuning large language models | ![GitHub stars](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety?style=social) |
 | [Virtual Prompt Injection](https://github.com/wegodev2/virtual-prompt-injection) | Tool for virtual prompt injection in language models | ![GitHub stars](https://img.shields.io/github/stars/wegodev2/virtual-prompt-injection?style=social) |
 | [FigStep](https://github.com/ThuCCSLab/FigStep) | Jailbreaking Large Vision-language Models via Typographic Visual Prompts | ![GitHub stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep?style=social) |
-
+| [stealing-part-lm-supplementary](https://github.com/dpaleka/stealing-part-lm-supplementary)|Some code for "Stealing Part of a Production Language Model"|![GitHub stars](https://img.shields.io/github/stars/dpaleka/stealing-part-lm-supplementary?style=social)|
 
 ---
 
