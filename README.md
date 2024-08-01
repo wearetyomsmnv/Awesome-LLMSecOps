@@ -198,6 +198,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [FigStep](https://github.com/ThuCCSLab/FigStep) | Jailbreaking Large Vision-language Models via Typographic Visual Prompts | ![GitHub stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep?style=social) |
 | [stealing-part-lm-supplementary](https://github.com/dpaleka/stealing-part-lm-supplementary)|Some code for "Stealing Part of a Production Language Model"|![GitHub stars](https://img.shields.io/github/stars/dpaleka/stealing-part-lm-supplementary?style=social)|
 |[Hallucination-Attack](https://github.com/PKU-YuanGroup/Hallucination-Attack)|Attack to induce LLMs within hallucinations|![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Hallucination-Attack?style=social)|
+|[llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey)|Reading list of hallucination in LLMs. Check out our new survey paper: "Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models"|![GitHub stars](https://img.shields.io/github/stars/HillZhang1999/llm-hallucination-survey?style=social)|
 
 ---
 
