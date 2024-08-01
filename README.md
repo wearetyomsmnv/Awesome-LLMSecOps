@@ -197,6 +197,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [Virtual Prompt Injection](https://github.com/wegodev2/virtual-prompt-injection) | Tool for virtual prompt injection in language models | ![GitHub stars](https://img.shields.io/github/stars/wegodev2/virtual-prompt-injection?style=social) |
 | [FigStep](https://github.com/ThuCCSLab/FigStep) | Jailbreaking Large Vision-language Models via Typographic Visual Prompts | ![GitHub stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep?style=social) |
 | [stealing-part-lm-supplementary](https://github.com/dpaleka/stealing-part-lm-supplementary)|Some code for "Stealing Part of a Production Language Model"|![GitHub stars](https://img.shields.io/github/stars/dpaleka/stealing-part-lm-supplementary?style=social)|
+|[Hallucination-Attack](https://github.com/PKU-YuanGroup/Hallucination-Attack)|Attack to induce LLMs within hallucinations|![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Hallucination-Attack?style=social)|
 
 ---
 
