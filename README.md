@@ -92,6 +92,11 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 <th>Stars</th>
 </tr>
 <tr>
+<td><a href="https://github.com/meta-llama/PurpleLlama">🛡️ PurpleLlama</a></td>
+<td>Set of tools to assess and improve LLM security.</td>
+<td><img src="https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/protectai/rebuff">🛡️ Rebuff</a></td>
 <td>API with built-in rules for identifying prompt injection and detecting data leakage through canary words.</td>
 <td><img src="https://img.shields.io/github/stars/protectai/rebuff?style=social" alt="GitHub stars"></td>
@@ -227,6 +232,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 |----------|--------------|----------------|
 | [The Developer's Playbook for Large Language Model Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) | Steve Wilson  | 🛡️ Comprehensive guide for developers on securing LLMs |
 | [Generative AI Security: Theories and Practices (Future of Business and Finance)](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517) | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | 🔬 In-depth exploration of security theories, laws, terms and practices in Generative AI |
+|[Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps](https://www.packtpub.com/en-ru/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985)|John Sotiropoulos| Practical examples of code for your best mlsecops pipeline|
 
 
 <div align="center">
