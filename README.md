@@ -17,12 +17,12 @@
 ### by @wearetyomsmnv
 
 
-**Introduction | Architecture | Vulnerabilities | Tools | Defense | Threat Modeling | Jailbreaks | RAG Security | PoC's | Study Resources | Books | Blogs | Datasets for Testing | OPS Security | Frameworks | Best Practices | Research | Tutorials | Companies | Community Resources**
+**Architecture | Vulnerabilities | Tools | Defense | Threat Modeling | Jailbreaks | RAG Security | PoC's | Study Resources | Books | Blogs | Datasets for Testing | OPS Security | Frameworks | Best Practices | Research | Tutorials | Companies | Community Resources**
 
 </div>
 
 
-## Introduction
+
 
 LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well as what threats may be encountered along the way. Everyone is welcome to contribute. 
 
