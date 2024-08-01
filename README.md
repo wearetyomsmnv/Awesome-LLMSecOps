@@ -175,6 +175,25 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 |----------|-------------|
 | [JailbreakBench](https://jailbreakbench.github.io/) | Website dedicated to evaluating and analyzing jailbreak methods for language models |
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
+| [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models.|
+
+# Hallucinations Leaderboard
+
+| Model | Hallucination Rate | Factual Consistency Rate | Answer Rate | Average Summary Length (Words) |
+|-------|--------------------|--------------------------|--------------|---------------------------------|
+| GPT 4 Turbo | 2.5% | 97.5% | 100.0% | 86.2 |
+| Snowflake Arctic | 2.6% | 97.4% | 100.0% | 68.7 |
+| Intel Neural Chat 7B | 2.8% | 97.2% | 89.5% | 57.6 |
+| 01-AI Yi-1.5-34B-Chat | 3.0% | 97.0% | 100.0% | 83.7 |
+| GPT 4 | 3.0% | 97.0% | 100.0% | 81.1 |
+| GPT 4o mini | 3.1% | 96.9% | 100.0% | 76.3 |
+| Microsoft Orca-2-13b | 3.2% | 96.8% | 100.0% | 66.2 |
+| Qwen2-72B-Instruct | 3.5% | 96.5% | 100.0% | 100.1 |
+| GPT 3.5 Turbo | 3.5% | 96.5% | 99.6% | 84.1 |
+| Mistral-Large2 | 3.6% | 96.4% | 100.0% | 77.4 |
+| 01-AI Yi-1.5-9B-Chat | 3.7% | 96.3% | 100.0% | 85
+
+**From [this](https://github.com/vectara/hallucination-leaderboard) repo (update 25 july)**
 
 ## RAG Security
 
