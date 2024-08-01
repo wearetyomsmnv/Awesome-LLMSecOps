@@ -81,6 +81,11 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 <td>Tool for ensuring confidentiality in LLMs</td>
 <td><img src="https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social" alt="GitHub stars"></td>
 </tr>
+   <tr>
+<td><a href="https://github.com/Azure/PyRIT">🔒 PyRIT</a></td>
+<td>The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.</td>
+<td><img src="https://img.shields.io/github/stars/Azure/PyRIT?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
