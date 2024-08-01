@@ -16,7 +16,8 @@
 
 ### by @wearetyomsmnv
 
-[Introduction](#introduction) • [Architecture](#architecture) • [Vulnerabilities](#vulnerabilities-desctiption-by-giskard) • [Tools](#-tools-for-scanning) • [Defense](#️defense) • [Threat Modeling](#threat-modeling) • [Jailbreaks](#jailbreaks) • [RAG Security](#rag-security) • [PoC](#poc) • [Study Resources](#study-resource) • [Books](#-books) • [BLOGS and DATA](#blogs-and-data) • [OPS](#ops) • [Frameworks](#-frameworks) • [Best Practices](#-best-practices) • [Research](#-research-papers) • [Tutorials](#-tutorials) • [Companies](#companies) • [Community](#-community)
+
+**Introduction | Architecture | Vulnerabilities | Tools | Defense | Threat Modeling | Jailbreaks | RAG Security | PoC's | Study Resources | Books | Blogs | Datasets for Testing | OPS Security | Frameworks | Best Practices | Research | Tutorials | Companies | Community Resources**
 
 </div>
 
@@ -34,7 +35,10 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ![image](https://github.com/user-attachments/assets/b3bccddb-8396-4a14-8b67-76905124d88a)
 
-## Vulnerabilities desctiption by Giskard
+<div align="center">
+
+## Vulnerabilities desctiption 
+#### by Giskard
 
 | Vulnerability | Description |
 |---------------|-------------|
@@ -46,6 +50,14 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | Information Disclosure | This vulnerability occurs when the model inadvertently reveals sensitive or private data about individuals, organizations, or entities, posing significant privacy risks and ethical concerns. |
 | Stereotypes and Discrimination | If model's outputs are perpetuating biases, stereotypes, or discriminatory content, it leads to harmful societal consequences, undermining efforts to promote fairness, diversity, and inclusion. |
 
+
+
+## LLMSecOps Life Cycle
+
+
+![Group 2](https://github.com/user-attachments/assets/43a56dad-ddad-4097-a57e-aa035247810d)
+
+</div>
 <div align="center">
 
 <h2>🛠 Tools for scanning</h2>
@@ -207,7 +219,6 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 **From [this](https://github.com/vectara/hallucination-leaderboard) repo (update 25 july)**
 
-
 </div>
 
 ---
@@ -269,6 +280,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 3. [📚 Lakera LLM Security](https://www.lakera.ai/blog/llm-security)
    - Overwiev for attacks on llm
 
+<div align="center">
+
 ## 📚 Books
 
 | 📖 Title | 🖋️ Author(s) | 🔍 Description |
@@ -277,6 +290,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [Generative AI Security: Theories and Practices (Future of Business and Finance)](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517) | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | 🔬 In-depth exploration of security theories, laws, terms and practices in Generative AI |
 |[Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps](https://www.packtpub.com/en-ru/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985)|John Sotiropoulos| Practical examples of code for your best mlsecops pipeline|
 
+</div>
 
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -309,6 +323,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 
 
+<div align="center">
 
 ## OPS 
 
@@ -320,8 +335,11 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | https://huggingface.co/docs/hub/security | Hugging Face Hub Security Documentation |
 | https://developer.nvidia.com/blog/secure-llm-tokenizers-to-maintain-application-integrity/ | Secure LLM Tokenizers to Maintain Application Integrity |
 | https://sightline.protectai.com/ | Sightline by ProtectAI <br><br>Check vulnerabilities on:<br>• Nemo by Nvidia<br>• Deep Lake<br>• Fine-Tuner AI<br>• Snorkel AI<br>• Zen ML<br>• Lamini AI<br>• Comet<br>• Titan ML<br>• Deepset AI<br>• Valohai<br><br>**For finding LLMops tools vulnerabilities** |
+</div>
 
 ---
+
+<div align="center">
 
 ## 🏗 Frameworks
 
@@ -340,8 +358,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 <table align="center"> <tr> <td align="center"> <h3>OWASP LLMSVS</h3> <p><strong>Large Language Model Security Verification Standard</strong></p> <p><a href="https://owasp.org/www-project-llm-verification-standard/">Project Link</a></p> </td> </tr> <tr> <td align="center"> <p>The primary aim of the OWASP LLMSVS Project is to provide an open security standard for systems which leverage artificial intelligence and Large Language Models.</p> <p>The standard provides a basis for designing, building, and testing robust LLM backed applications, including:</p> <ul style="list-style-type: none; padding: 0;"> <li>Architectural concerns</li> <li>Model lifecycle</li> <li>Model training</li> <li>Model operation and integration</li> <li>Model storage and monitoring</li> </ul> </td> </tr> </table> </div>
 
-
 ---
+
 
 ## Companies
 
@@ -357,6 +375,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | Rebuff | Self-hardening prompt injection detector for AI applications, using a multi-layered protection mechanism. | https://github.com/rebuff |
 | Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.whylabs.ai/ |
 | WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/
+
+</div>
 
 ---
 
