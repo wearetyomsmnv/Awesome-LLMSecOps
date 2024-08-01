@@ -202,9 +202,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 # Hallucinations Leaderboard
 
-
 | Model | Hallucination Rate | Factual Consistency Rate | Answer Rate | Average Summary Length (Words) |
-|-------|--------------------|--------------------------|--------------|---------------------------------|
+|-------|:------------------:|:------------------------:|:-----------:|:-------------------------------:|
 | GPT 4 Turbo | 2.5% | 97.5% | 100.0% | 86.2 |
 | Snowflake Arctic | 2.6% | 97.4% | 100.0% | 68.7 |
 | Intel Neural Chat 7B | 2.8% | 97.2% | 89.5% | 57.6 |
@@ -215,7 +214,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | Qwen2-72B-Instruct | 3.5% | 96.5% | 100.0% | 100.1 |
 | GPT 3.5 Turbo | 3.5% | 96.5% | 99.6% | 84.1 |
 | Mistral-Large2 | 3.6% | 96.4% | 100.0% | 77.4 |
-| 01-AI Yi-1.5-9B-Chat | 3.7% | 96.3% | 100.0% | 85
+| 01-AI Yi-1.5-9B-Chat | 3.7% | 96.3% | 100.0% | 85.0 |
 
 **From [this](https://github.com/vectara/hallucination-leaderboard) repo (update 25 july)**
 
