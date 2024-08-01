@@ -1,6 +1,11 @@
-# 🚀 Awesome LLMSecOps 
+<p align="center">
+  <img src="https://media.giphy.com/media/WPkNqX6qclrlG1LgxV/giphy.gif" alt="GIPHY Animation">
+</p>
+
 
 <div align="center">
+
+# 🚀 Awesome LLMSecOps 
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/awesome-llmsecops?style=flat-square&color=yellow)
@@ -157,6 +162,9 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 
 ---
+<div align="center">
+
+
 
 ## Threat Modeling
 
@@ -169,6 +177,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 ![image](https://github.com/user-attachments/assets/0adcabdf-1afb-4ab2-aa8c-eef75c229842)
 ![image](https://github.com/user-attachments/assets/ed4340ad-ee95-47b3-8661-2660a2b0472e)
 
+
+
 ## Jailbreaks
 
 | Resource | Description |
@@ -177,7 +187,9 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
 | [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models.|
 
+
 # Hallucinations Leaderboard
+
 
 | Model | Hallucination Rate | Factual Consistency Rate | Answer Rate | Average Summary Length (Words) |
 |-------|--------------------|--------------------------|--------------|---------------------------------|
@@ -194,6 +206,11 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | 01-AI Yi-1.5-9B-Chat | 3.7% | 96.3% | 100.0% | 85
 
 **From [this](https://github.com/vectara/hallucination-leaderboard) repo (update 25 july)**
+
+
+</div>
+
+---
 
 ## RAG Security
 
