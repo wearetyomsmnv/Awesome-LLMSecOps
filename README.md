@@ -359,10 +359,22 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ---
 
+## 🌐 Community
 
-## Companies
+<div align="center">
 
-| Name | LLM Security Capabilities | URL |
+| Platform | Details |
+|:--------:|---------|
+| [OWASP SLACK](https://owasp.org/slack/invite) | **Channels:**<br>• #project-top10-for-llm<br>• #ml-risk-top5<br>• #project-ai-community<br>• #project-mlsec-top10<br>• #team-llm_ai-secgov<br>• #team-llm-redteam<br>• #team-llm-v2-brainstorm |
+| [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) | GitHub repository |
+| [PWNAI](https://t.me/pwnai) | Telegram channel |
+| [AiSec_X_Feed](https://t.me/aisecnews) | Telegram channel |
+| [LVE_Project](https://lve-project.org/) | Official website |
+| [Lakera AI Security resource hub](https://docs.google.com/spreadsheets/d/1tv3d2M4-RO8xJYiXp5uVvrvGWffM-40La18G_uFZlRM/edit?gid=639798153#gid=639798153) | Google Sheets document |
+
+
+
+| Name | LLM Security Company | URL |
 |------|---------------------------|-----|
 | CalypsoAI Moderator | Focuses on preventing data leakage, full auditability, and malicious code detection. | https://www.prompt.security |
 | Giskard | AI quality management system for ML models, focusing on vulnerabilities such as performance bias, hallucinations, and prompt injections. | https://www.giskard.ai/ |
@@ -377,27 +389,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 </div>
 
----
-
-## 🌐 Community
-
-<div align="left">
-
-- [OWASP SLACK](https://owasp.org/slack/invite)    
-Channels:
-    - #project-top10-for-llm
-    - #ml-risk-top5
-    - #project-ai-community
-    - #project-mlsec-top10
-    - #team-llm_ai-secgov
-    - #team-llm-redteam
-    - #team-llm-v2-brainstorm
-    
-- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security)
-- [PWNAI](https://t.me/pwnai)
-- [AiSec_X_Feed](https://t.me/aisecnews)
-- [LVE_Project](https://lve-project.org/)
-- [Lakera AI Security resource hub](https://docs.google.com/spreadsheets/d/1tv3d2M4-RO8xJYiXp5uVvrvGWffM-40La18G_uFZlRM/edit?gid=639798153#gid=639798153)
 
 
-</div>
+
+
