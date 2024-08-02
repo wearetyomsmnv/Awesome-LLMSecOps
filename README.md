@@ -70,7 +70,6 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | Stereotypes and Discrimination | If model's outputs are perpetuating biases, stereotypes, or discriminatory content, it leads to harmful societal consequences, undermining efforts to promote fairness, diversity, and inclusion. |
 
 
-
 ## LLMSecOps Life Cycle
 
 
@@ -207,6 +206,13 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ![image](https://github.com/user-attachments/assets/0adcabdf-1afb-4ab2-aa8c-eef75c229842)
 ![image](https://github.com/user-attachments/assets/ed4340ad-ee95-47b3-8661-2660a2b0472e)
+
+
+## Monitoring 
+
+| Tool | Description |
+|------|-------------|
+|[Langfuse](https://langfuse.com/)|Open Source LLM Engineering Platform with security capabilities|
 
 ## Watermarking
 
