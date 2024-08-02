@@ -231,6 +231,9 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [Adversarial AI - RAG Attacks and Mitigations](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG) | GitHub repository on RAG attacks, mitigations, and defense strategies |
 | [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) | GitHub repository about poisoned RAG systems |
 
+![image](https://github.com/user-attachments/assets/e0df02b1-9d7d-40ac-ba1b-b6f69ae68073)
+
+
 ## PoC
 
 | Tool | Description | Stars |
@@ -259,11 +262,13 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [Learn Prompting: Offensive Measures](https://learnprompting.org/docs/prompt_hacking/offensive_measures/) | Guide on offensive prompt engineering techniques |
 | [Application Security LLM Testing](https://application.security/free/llm) | Free LLM security testing  |
 | [Salt Security Blog: ChatGPT Extensions Vulnerabilities](https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data) | Article on security flaws in ChatGPT browser extensions |
+|[safeguarding-llms](https://github.com/sshkhr/safeguarding-llms)|TMLS 2024 Workshop: A Practitioner's Guide To Safeguarding Your LLM Applications|
+|[Damn Vulnerable LLM Agent]( https://github.com/WithSecureLabs/damn-vulnerable-llm-agent)|n/a|
 
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
 
-## 📊 Research Papers
+## 📊 Community research articles
 
 | Title | Authors | Year | Citations |
 |-------|---------|------|-----------|
@@ -314,6 +319,7 @@ This repository, unlike many existing repositories, emphasizes the practical imp
         <tr><td align="center"><a href="https://github.com/verazuo/jailbreak_llms/tree/main/data">Jailbreak LLMs</a><br>Data for jailbreaking Large Language Models</td></tr>
         <tr><td align="center"><a href="https://github.com/LouisShark/chatgpt_system_prompt">ChatGPT System Prompt</a><br>Repository containing ChatGPT system prompts</td></tr>
         <tr><td align="center"><a href="https://github.com/Libr-AI/do-not-answer">Do Not Answer</a><br>Project related to LLM response control</td></tr>
+        <tr><td align="center"><a href="https://github.com/microsoft/ToxiGen">ToxiGen</a><br>Microsoft dataset</td></tr>
       </table>
     </td>
   </tr>
