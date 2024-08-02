@@ -340,6 +340,7 @@ https://github.com/THU-BPM/MarkLLM
 | [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) | Repository containing ChatGPT system prompts |
 | [Do Not Answer](https://github.com/Libr-AI/do-not-answer) | Project related to LLM response control |
 | [ToxiGen](https://github.com/microsoft/ToxiGen) | Microsoft dataset |
+| [SafetyPrompts](https://safetyprompts.com/)| A Living Catalogue of Open Datasets for LLM Safety|
 
 </div>
 
