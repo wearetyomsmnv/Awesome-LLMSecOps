@@ -208,7 +208,9 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 ![image](https://github.com/user-attachments/assets/0adcabdf-1afb-4ab2-aa8c-eef75c229842)
 ![image](https://github.com/user-attachments/assets/ed4340ad-ee95-47b3-8661-2660a2b0472e)
 
+## Watermarking
 
+https://github.com/THU-BPM/MarkLLM
 
 ## Jailbreaks
 
