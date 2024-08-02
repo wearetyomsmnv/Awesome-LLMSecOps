@@ -289,8 +289,8 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ## 📊 Community research articles
 
-| Title | Authors | Year | Citations |
-|-------|---------|------|-----------|
+| Title | Authors | Year | 
+|-------|---------|------|
 | [📄 Bypassing Meta’s LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
 
@@ -313,39 +313,33 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 | [Generative AI Security: Theories and Practices (Future of Business and Finance)](https://www.amazon.com/Generative-AI-Security-Theories-Practices/dp/3031542517) | Ken Huang, Yang Wang, Ben Goertzel, Yale Li, Sean Wright, Jyoti Ponnapalli | 🔬 In-depth exploration of security theories, laws, terms and practices in Generative AI |
 |[Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps](https://www.packtpub.com/en-ru/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985)|John Sotiropoulos| Practical examples of code for your best mlsecops pipeline|
 
+
+
+
+**BLOGS**
+
+| Blog |
+|------|
+| https://embracethered.com/blog/ |
+| 🐦 https://twitter.com/llm_sec |
+| 🐦 https://twitter.com/LLM_Top10 |
+| 🐦 https://twitter.com/aivillage_dc |
+| 🐦 https://twitter.com/elder_plinius/ |
+| https://hiddenlayer.com/ |
+| https://t.me/pwnai |
+| https://github.com/sinanw/llm-security-prompt-injection |
+
+**DATA**
+
+| Resource | Description |
+|----------|-------------|
+| [Safety and privacy with Large Language Models](https://github.com/annjawn/llm-safety-privacy) | GitHub repository on LLM safety and privacy |
+| [Jailbreak LLMs](https://github.com/verazuo/jailbreak_llms/tree/main/data) | Data for jailbreaking Large Language Models |
+| [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) | Repository containing ChatGPT system prompts |
+| [Do Not Answer](https://github.com/Libr-AI/do-not-answer) | Project related to LLM response control |
+| [ToxiGen](https://github.com/microsoft/ToxiGen) | Microsoft dataset |
+
 </div>
-
-<div align="center">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>BLOGS</h3>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr><td align="center">https://embracethered.com/blog/</td></tr>
-        <tr><td align="center">🐦 https://twitter.com/llm_sec</td></tr>
-        <tr><td align="center">🐦 https://twitter.com/LLM_Top10</td></tr>
-        <tr><td align="center">🐦 https://twitter.com/aivillage_dc</td></tr>
-        <tr><td align="center">🐦 https://twitter.com/elder_plinius/</td></tr>
-        <tr><td align="center">https://hiddenlayer.com/</td></tr>
-        <tr><td align="center">https://t.me/pwnai</td></tr>
-        <tr><td align="center">https://github.com/sinanw/llm-security-prompt-injection</td></tr>
-      </table>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>DATA</h3>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr><td align="center"><a href="https://github.com/annjawn/llm-safety-privacy">Safety and privacy with Large Language Models</a><br>GitHub repository on LLM safety and privacy</td></tr>
-        <tr><td align="center"><a href="https://github.com/verazuo/jailbreak_llms/tree/main/data">Jailbreak LLMs</a><br>Data for jailbreaking Large Language Models</td></tr>
-        <tr><td align="center"><a href="https://github.com/LouisShark/chatgpt_system_prompt">ChatGPT System Prompt</a><br>Repository containing ChatGPT system prompts</td></tr>
-        <tr><td align="center"><a href="https://github.com/Libr-AI/do-not-answer">Do Not Answer</a><br>Project related to LLM response control</td></tr>
-        <tr><td align="center"><a href="https://github.com/microsoft/ToxiGen">ToxiGen</a><br>Microsoft dataset</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-</div>
-
-
 
 <div align="center">
 
