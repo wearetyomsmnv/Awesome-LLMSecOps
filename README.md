@@ -31,9 +31,28 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 ---
 
 
-## Architecture
-
 ![image](https://github.com/user-attachments/assets/b3bccddb-8396-4a14-8b67-76905124d88a)
+
+<div align="center">
+
+## Architecture risks
+
+
+| Risk | Description |
+|------|-------------|
+| Recursive Pollution | LLMs can produce incorrect output with high confidence. If such output is used in training data, it can cause future LLMs to be trained on polluted data, creating a feedback loop problem. |
+| Data Debt | LLMs rely on massive datasets, often too large to thoroughly vet. This lack of transparency and control over data quality presents a significant risk. |
+| Black Box Opacity | Many critical components of LLMs are hidden in a "black box" controlled by foundation model providers, making it difficult for users to manage and mitigate risks effectively. |
+| Prompt Manipulation | Manipulating the input prompts can lead to unstable and unpredictable LLM behavior. This risk is similar to adversarial inputs in other ML systems. |
+| Poison in the Data | Training data can be contaminated intentionally or unintentionally, leading to compromised model integrity. This is especially problematic given the size and scope of data used in LLMs. |
+| Reproducibility Economics | The high cost of training LLMs limits reproducibility and independent verification, leading to a reliance on commercial entities and potentially unreviewed models. |
+| Model Trustworthiness | The inherent stochastic nature of LLMs and their lack of true understanding can make their output unreliable. This raises questions about whether they should be trusted in critical applications. |
+| Encoding Integrity | Data is often processed and re-represented in ways that can introduce bias and other issues. This is particularly challenging with LLMs due to their unsupervised learning nature. |
+
+</div>
+
+**From [Berryville Institute of Machine Learning (BIML)](https://berryvilleiml.com/docs/BIML-LLM24.pdf) paper**
+
 
 <div align="center">
 
