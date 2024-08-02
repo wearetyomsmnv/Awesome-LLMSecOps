@@ -318,7 +318,7 @@ https://github.com/THU-BPM/MarkLLM
 
 
 
-**BLOGS**
+## BLOGS
 
 | Blog |
 |------|
@@ -331,7 +331,7 @@ https://github.com/THU-BPM/MarkLLM
 | https://t.me/pwnai |
 | https://github.com/sinanw/llm-security-prompt-injection |
 
-**DATA**
+## DATA
 
 | Resource | Description |
 |----------|-------------|
