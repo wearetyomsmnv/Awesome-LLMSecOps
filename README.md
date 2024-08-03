@@ -350,8 +350,7 @@ https://github.com/THU-BPM/MarkLLM
 | 🐦 https://twitter.com/aivillage_dc |
 | 🐦 https://twitter.com/elder_plinius/ |
 | https://hiddenlayer.com/ |
-| https://t.me/pwnai |
-| https://github.com/sinanw/llm-security-prompt-injection |
+
 
 ## DATA
 
@@ -363,6 +362,7 @@ https://github.com/THU-BPM/MarkLLM
 | [Do Not Answer](https://github.com/Libr-AI/do-not-answer) | Project related to LLM response control |
 | [ToxiGen](https://github.com/microsoft/ToxiGen) | Microsoft dataset |
 | [SafetyPrompts](https://safetyprompts.com/)| A Living Catalogue of Open Datasets for LLM Safety|
+| [llm-security-prompt-injection](https://github.com/sinanw/llm-security-prompt-injection) | This project investigates the security of large language models by performing binary classification of a set of input prompts to discover malicious prompts. Several approaches have been analyzed using classical ML algorithms, a trained LLM model, and a fine-tuned LLM model. |
 
 </div>
 
