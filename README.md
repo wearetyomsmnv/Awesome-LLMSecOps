@@ -30,8 +30,12 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 
 ---
 
+<div align="center">
 
-![image](https://github.com/user-attachments/assets/b3bccddb-8396-4a14-8b67-76905124d88a)
+## 3 types of LLM architecture
+
+![Group3](https://github.com/user-attachments/assets/0079c134-be60-42b0-afaa-a5df9bb7ece3)
+
 
 <div align="center">
 
