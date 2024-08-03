@@ -22,8 +22,6 @@
 </div>
 
 
-
-
 LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well as what threats may be encountered along the way. Everyone is welcome to contribute. 
 
 This repository, unlike many existing repositories, emphasizes the practical implementation of security and does not provide a lot of references to arxiv in the description.
@@ -276,9 +274,18 @@ https://github.com/THU-BPM/MarkLLM
 | [LLMs Finetuning Safety](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) | Safety measures for fine-tuning large language models | ![GitHub stars](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety?style=social) |
 | [Virtual Prompt Injection](https://github.com/wegodev2/virtual-prompt-injection) | Tool for virtual prompt injection in language models | ![GitHub stars](https://img.shields.io/github/stars/wegodev2/virtual-prompt-injection?style=social) |
 | [FigStep](https://github.com/ThuCCSLab/FigStep) | Jailbreaking Large Vision-language Models via Typographic Visual Prompts | ![GitHub stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep?style=social) |
-| [stealing-part-lm-supplementary](https://github.com/dpaleka/stealing-part-lm-supplementary)|Some code for "Stealing Part of a Production Language Model"|![GitHub stars](https://img.shields.io/github/stars/dpaleka/stealing-part-lm-supplementary?style=social)|
-|[Hallucination-Attack](https://github.com/PKU-YuanGroup/Hallucination-Attack)|Attack to induce LLMs within hallucinations|![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Hallucination-Attack?style=social)|
-|[llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey)|Reading list of hallucination in LLMs. Check out our new survey paper: "Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models"|![GitHub stars](https://img.shields.io/github/stars/HillZhang1999/llm-hallucination-survey?style=social)|
+| [stealing-part-lm-supplementary](https://github.com/dpaleka/stealing-part-lm-supplementary) | Some code for "Stealing Part of a Production Language Model" | ![GitHub stars](https://img.shields.io/github/stars/dpaleka/stealing-part-lm-supplementary?style=social) |
+| [Hallucination-Attack](https://github.com/PKU-YuanGroup/Hallucination-Attack) | Attack to induce LLMs within hallucinations | ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Hallucination-Attack?style=social) |
+| [llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) | Reading list of hallucination in LLMs. Check out our new survey paper: "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models" | ![GitHub stars](https://img.shields.io/github/stars/HillZhang1999/llm-hallucination-survey?style=social) |
+| [LMSanitator](https://github.com/meng-wenlong/LMSanitator) | LMSanitator: Defending Large Language Models Against Stealthy Prompt Injection Attacks | ![GitHub stars](https://img.shields.io/github/stars/meng-wenlong/LMSanitator?style=social) |
+| [Imperio](https://github.com/HKU-TASR/Imperio) | Imperio: Robust Prompt Engineering for Anchoring Large Language Models | ![GitHub stars](https://img.shields.io/github/stars/HKU-TASR/Imperio?style=social) |
+| [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama) | Backdoor Attacks on Fine-tuned LLaMA Models | ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social) |
+| [CBA](https://github.com/MiracleHH/CBA) | Consciousness-Based Authentication for LLM Security | ![GitHub stars](https://img.shields.io/github/stars/MiracleHH/CBA?style=social) |
+| [MuScleLoRA](https://github.com/ZrW00/MuScleLoRA) | A Framework for Multi-scenario Backdoor Fine-tuning of LLMs | ![GitHub stars](https://img.shields.io/github/stars/ZrW00/MuScleLoRA?style=social) |
+| [BadActs](https://github.com/clearloveclearlove/BadActs) | BadActs: Backdoor Attacks against Large Language Models via Activation Steering | ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) |
+| [TrojText](https://github.com/UCF-ML-Research/TrojText) | Trojan Attacks on Text Classifiers | ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) |
+| [AnyDoor](https://github.com/sail-sg/AnyDoor) | Create Arbitrary Backdoor Instances in Language Models | ![GitHub stars](https://img.shields.io/github/stars/sail-sg/AnyDoor?style=social) |
+
 
 ---
 
@@ -293,8 +300,10 @@ https://github.com/THU-BPM/MarkLLM
 | [Learn Prompting: Offensive Measures](https://learnprompting.org/docs/prompt_hacking/offensive_measures/) | Guide on offensive prompt engineering techniques |
 | [Application Security LLM Testing](https://application.security/free/llm) | Free LLM security testing  |
 | [Salt Security Blog: ChatGPT Extensions Vulnerabilities](https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data) | Article on security flaws in ChatGPT browser extensions |
-|[safeguarding-llms](https://github.com/sshkhr/safeguarding-llms)|TMLS 2024 Workshop: A Practitioner's Guide To Safeguarding Your LLM Applications|
-|[Damn Vulnerable LLM Agent]( https://github.com/WithSecureLabs/damn-vulnerable-llm-agent)|n/a|
+| [safeguarding-llms](https://github.com/sshkhr/safeguarding-llms) | TMLS 2024 Workshop: A Practitioner's Guide To Safeguarding Your LLM Applications |
+| [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) | Intentionally vulnerable LLM agent for security testing and education |
+| [GPT Agents Arena](https://gpa.43z.one/) | Platform for testing and evaluating LLM agents in various scenarios |
+| [AI Battle](https://play.secdim.com/game/ai-battle) | Interactive game focusing on AI security challenges |
 
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
@@ -303,8 +312,10 @@ https://github.com/THU-BPM/MarkLLM
 
 | Title | Authors | Year | 
 |-------|---------|------|
-| [📄 Bypassing Meta’s LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
+| [📄 Bypassing Meta's LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
+| [📄 Detecting Prompt Injection: BERT-based Classifier](https://labs.withsecure.com/publications/detecting-prompt-injection-bert-based-classifier) | WithSecure Labs | 2024 |
+
 
 ## 🎓 Tutorials
 
@@ -405,6 +416,7 @@ https://github.com/THU-BPM/MarkLLM
 | [AiSec_X_Feed](https://t.me/aisecnews) | Telegram channel |
 | [LVE_Project](https://lve-project.org/) | Official website |
 | [Lakera AI Security resource hub](https://docs.google.com/spreadsheets/d/1tv3d2M4-RO8xJYiXp5uVvrvGWffM-40La18G_uFZlRM/edit?gid=639798153#gid=639798153) | Google Sheets document |
+| [llm-testing-findings](https://github.com/BishopFox/llm-testing-findings/)| Templates with recomendation, cwe and other | 
 
 
 
@@ -418,8 +430,8 @@ https://github.com/THU-BPM/MarkLLM
 | LLM Fuzzer | Open-source fuzzing framework specifically designed for LLMs, focusing on integration into applications via LLM APIs. | https://github.com/llmfuzzer |
 | Prompt Security | Provides a security, data privacy, and safety approach across all aspects of generative AI, independent of specific LLMs. | https://www.prompt.security |
 | Rebuff | Self-hardening prompt injection detector for AI applications, using a multi-layered protection mechanism. | https://github.com/rebuff |
-| Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.whylabs.ai/ |
-| WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/
+| Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.robustintelligence.com/ |
+| WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/ |
 
 </div>
 
