@@ -308,12 +308,13 @@ https://github.com/THU-BPM/MarkLLM
 
 ## 🎓 Tutorials
 
-1. [📚 HADESS - Web LLM Attacks](https://hadess.io/web-llm-attacks/)
-   - Understand how u can do attack in web via llm
-2. [📚 Red Teaming with LLMs](https://redteamrecipe.com/red-teaming-with-llms)
-   - Practical Techniques for attacking ai systems
-3. [📚 Lakera LLM Security](https://www.lakera.ai/blog/llm-security)
-   - Overwiev for attacks on llm
+
+| Ресурс | Описание |
+|--------|----------|
+| [📚 HADESS - Web LLM Attacks](https://hadess.io/web-llm-attacks/) | Понимание того, как можно осуществлять атаки в вебе через LLM |
+| [📚 Red Teaming with LLMs](https://redteamrecipe.com/red-teaming-with-llms) | Практические методы атак на системы ИИ |
+| [📚 Lakera LLM Security](https://www.lakera.ai/blog/llm-security) | Обзор атак на LLM |
+
 
 <div align="center">
 
@@ -358,7 +359,8 @@ https://github.com/THU-BPM/MarkLLM
 
 ## OPS 
 
-![image](https://github.com/user-attachments/assets/e7fe456e-4dc5-447c-90b4-392844d938e9)
+![Group 4](https://github.com/user-attachments/assets/90133c33-ee58-4ec8-a9cb-c14fe529eb2f)
+
 
 | Resource | Description |
 |----------|-------------|
