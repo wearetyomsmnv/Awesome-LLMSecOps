@@ -22,9 +22,9 @@
 </div>
 
 
-LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well as what threats may be encountered along the way. Everyone is welcome to contribute. 
+>LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well >as what threats may be encountered along the way. Everyone is welcome to contribute. 
 
-This repository, unlike many existing repositories, emphasizes the practical implementation of security and does not provide a lot of references to arxiv in the description.
+>This repository, unlike many existing repositories, emphasizes the practical implementation of security and does not provide a lot of references to arxiv in the description.
 
 ---
 
@@ -124,6 +124,34 @@ This repository, unlike many existing repositories, emphasizes the practical imp
 <td><img src="https://img.shields.io/github/stars/Azure/PyRIT?style=social" alt="GitHub stars"></td>
 </tr>
 </table>
+
+
+> ### How to run garak
+> 
+> ```
+> python -m pip install -U garak
+> ```
+> 
+> Probe ChatGPT for encoding-based prompt injection (OSX/\*nix) (replace example value with a real OpenAI API key)
+> 
+> Probes is a simple .py file with prompts for LLM
+> 
+> **[Examples](https://github.com/leondz/garak/tree/main/garak/probes)**
+>  
+> ```
+> export OPENAI_API_KEY="sk-123XXXXXXXXXXXX"
+> python3 -m garak --model_type openai --model_name gpt-3.5-turbo --probes encoding
+> ```
+> 
+> See if the Hugging Face version of GPT2 is vulnerable to DAN 11.0
+> 
+> ```
+> python3 -m garak --model_type huggingface --model_name gpt2 --probes dan.Dan_11_0
+> ```
+> 
+> **More examples on [Garak Tool](https://github.com/leondz/garak/blob/main/README.md#getting-started) instruction**
+
+
 
 <h2>🛡️Defense</h2>
 
