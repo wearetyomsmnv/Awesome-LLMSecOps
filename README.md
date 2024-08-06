@@ -314,6 +314,7 @@ https://github.com/THU-BPM/MarkLLM
 | [BadActs](https://github.com/clearloveclearlove/BadActs) | BadActs: Backdoor Attacks against Large Language Models via Activation Steering | ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) |
 | [TrojText](https://github.com/UCF-ML-Research/TrojText) | Trojan Attacks on Text Classifiers | ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) |
 | [AnyDoor](https://github.com/sail-sg/AnyDoor) | Create Arbitrary Backdoor Instances in Language Models | ![GitHub stars](https://img.shields.io/github/stars/sail-sg/AnyDoor?style=social) |
+| [PromptWare](https://github.com/StavC/PromptWares) | A Jailbroken GenAI Model Can Cause Real Harm: GenAI-powered Applications are Vulnerable to PromptWares | ![GitHub stars](https://img.shields.io/github/stars/StavC/PromptWares?style=social) |
 
 
 ---
