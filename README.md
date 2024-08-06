@@ -226,7 +226,8 @@ https://github.com/THU-BPM/MarkLLM
 |----------|-------------|
 | [JailbreakBench](https://jailbreakbench.github.io/) | Website dedicated to evaluating and analyzing jailbreak methods for language models |
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
-| [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models.|
+| [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models|
+| [HaizeLabs jailbreak Database](https://launch.haizelabs.com/)| This database contains jailbreaks for multimodal language models|
 
 
 # Hallucinations Leaderboard
