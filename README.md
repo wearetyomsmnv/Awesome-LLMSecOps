@@ -216,6 +216,11 @@
 <td>Security tool for LLM applications.</td>
 <td><img src="https://img.shields.io/github/stars/safellama/plexiglass?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/tldrsec/prompt-injection-defenses">🔍 Prompt Injection defenses</a></td>
+<td>Rules for protected LLM</td>
+<td><img src="https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 </div>
@@ -256,6 +261,24 @@ https://github.com/THU-BPM/MarkLLM
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
 | [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models|
 | [HaizeLabs jailbreak Database](https://launch.haizelabs.com/)| This database contains jailbreaks for multimodal language models|
+| [Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark) | A benchmark for prompt injection detection systems. | 
+
+
+## PINT Benchmark scores (by lakera)
+
+| Name | PINT Score | Test Date |
+| ---- | ---------- | --------- |
+| [Lakera Guard](https://lakera.ai/) | 98.0964% | 2024-06-12 |
+| [protectai/deberta-v3-base-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) | 91.5706% | 2024-06-12 |
+| [Azure AI Prompt Shield for Documents](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection#prompt-shields-for-documents) | 91.1914% | 2024-04-05 |
+| [Meta Prompt Guard](https://github.com/meta-llama/PurpleLlama/tree/main/Prompt-Guard) | 90.4496% | 2024-07-26 |
+| [protectai/deberta-v3-base-prompt-injection](https://huggingface.co/protectai/deberta-v3-base-prompt-injection) | 88.6597% | 2024-06-12 |
+| [WhyLabs LangKit](https://github.com/whylabs/langkit) | 80.0164% | 2024-06-12 |
+| [Azure AI Prompt Shield for User Prompts](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection#prompt-shields-for-user-prompts) | 77.504% | 2024-04-05 |
+| [Epivolis/Hyperion](https://huggingface.co/epivolis/hyperion) | 62.6572% | 2024-06-12 |
+| [fmops/distilbert-prompt-injection](https://huggingface.co/fmops/distilbert-prompt-injection) | 58.3508% | 2024-06-12 |
+| [deepset/deberta-v3-base-injection](https://huggingface.co/deepset/deberta-v3-base-injection) | 57.7255% | 2024-06-12 |
+| [Myadav/setfit-prompt-injection-MiniLM-L3-v2](https://huggingface.co/myadav/setfit-prompt-injection-MiniLM-L3-v2) | 56.3973% | 2024-06-12 |
 
 
 # Hallucinations Leaderboard
@@ -327,9 +350,15 @@ https://github.com/THU-BPM/MarkLLM
 | [How RAG Poisoning Made LLaMA3 Racist](https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.repello.ai%2Fhow-rag-poisoning-made-llama3-racist-1c5e390dd564) | Blog post about RAG poisoning and its effects on LLaMA3 |
 | [Adversarial AI - RAG Attacks and Mitigations](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG) | GitHub repository on RAG attacks, mitigations, and defense strategies |
 | [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) | GitHub repository about poisoned RAG systems |
+| [ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](https://arxiv.org/html/2408.04870v1) | Article about RAG vulnerabilities |
 
 ![image](https://github.com/user-attachments/assets/e0df02b1-9d7d-40ac-ba1b-b6f69ae68073)
 
+
+## Agentic security 
+| Tool | Description | Stars |
+|------|-------------|-------|
+| [invariant](https://github.com/invariantlabs-ai/invariant) | A trace analysis tool for AI agents. | ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) |
 
 ## PoC
 
@@ -384,6 +413,7 @@ https://github.com/THU-BPM/MarkLLM
 | [📄 Bypassing Meta's LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
 | [📄 Detecting Prompt Injection: BERT-based Classifier](https://labs.withsecure.com/publications/detecting-prompt-injection-bert-based-classifier) | WithSecure Labs | 2024 |
+| [📄 Practical LLM Security: Takeaways From a Year in the Trenches](http://i.blackhat.com/BH-US-24/Presentations/US24-Harang-Practical-LLM-Security-Takeaways-From-Wednesday.pdf?_gl=1*1rlcqet*_gcl_au*MjA4NjQ5NzM4LjE3MjA2MjA5MTI.*_ga*OTQ0NTQ2MTI5LjE3MjA2MjA5MTM.*_ga_K4JK67TFYV*MTcyMzQwNTIwMS44LjEuMTcyMzQwNTI2My4wLjAuMA..&_ga=2.168394339.31932933.1723405201-944546129.1720620913) | NVIDIA | 2024 |
 
 
 ## 🎓 Tutorials
@@ -491,7 +521,6 @@ https://github.com/THU-BPM/MarkLLM
 
 | Name | LLM Security Company | URL |
 |------|---------------------------|-----|
-| CalypsoAI Moderator | Focuses on preventing data leakage, full auditability, and malicious code detection. | https://www.prompt.security |
 | Giskard | AI quality management system for ML models, focusing on vulnerabilities such as performance bias, hallucinations, and prompt injections. | https://www.giskard.ai/ |
 | Lakera | Lakera Guard enhances LLM application security and counters a wide range of AI cyber threats. | https://www.lakera.ai/ |
 | Lasso Security | Focuses on LLMs, offering security assessment, advanced threat modeling, and specialized training programs. | https://www.lasso.security/ |
