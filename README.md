@@ -251,11 +251,13 @@
 
 | Tool | Description |
 |------|-------------|
-|[Langfuse](https://langfuse.com/)|Open Source LLM Engineering Platform with security capabilities|
+|[Langfuse](https://langfuse.com/) | Open Source LLM Engineering Platform with security capabilities. |
 
 ## Watermarking
 
-https://github.com/THU-BPM/MarkLLM
+| Tool | Description |
+|------|-------------|
+| [MarkLLM](https://github.com/THU-BPM/MarkLLM) | An Open-Source Toolkit for LLM Watermarking. |
 
 ## Jailbreaks
 
