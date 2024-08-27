@@ -403,6 +403,7 @@ https://github.com/THU-BPM/MarkLLM
 | [Gandalf](https://gandalf.lakera.ai/) | Interactive LLM security challenge game |
 | [Prompt Airlines](https://promptairlines.com/) | Platform for learning and practicing prompt engineering |
 | [PortSwigger LLM Attacks](https://portswigger.net/web-security/llm-attacks/) | Educational resource on WEB LLM security vulnerabilities and attacks |
+| [Invariant Labs CTF 2024](https://invariantlabs.ai/play-ctf-challenge-24) | CTF. Your should hack llm agentic |
 | [DeepLearning.AI Red Teaming Course](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) | Short course on red teaming LLM applications |
 | [Learn Prompting: Offensive Measures](https://learnprompting.org/docs/prompt_hacking/offensive_measures/) | Guide on offensive prompt engineering techniques |
 | [Application Security LLM Testing](https://application.security/free/llm) | Free LLM security testing  |
