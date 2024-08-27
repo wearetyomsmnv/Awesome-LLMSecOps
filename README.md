@@ -221,6 +221,10 @@
 <td>Rules for protected LLM</td>
 <td><img src="https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://ai.raftds.ru/security/#">🔍 LLM Data Protector</a></td>
+<td>Tools for protected LLM in chatbots</td>
+</tr>
 </table>
 
 </div>
