@@ -342,6 +342,11 @@ https://github.com/THU-BPM/MarkLLM
 
 **From [this](https://github.com/vectara/hallucination-leaderboard) repo (update 5 aug)**
 
+
+
+![image](https://github.com/user-attachments/assets/c051388f-9876-449b-81af-20308dfee4ac)
+
+**This is a Safety Benchmark from [stanford university](https://crfm.stanford.edu/helm/air-bench/latest/)**
 </div>
 
 ---
