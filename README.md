@@ -453,6 +453,7 @@ https://github.com/THU-BPM/MarkLLM
 | 🐦 https://twitter.com/aivillage_dc |
 | 🐦 https://twitter.com/elder_plinius/ |
 | https://hiddenlayer.com/ |
+| https://t.me/llmsecurity |
 
 
 ## DATA
