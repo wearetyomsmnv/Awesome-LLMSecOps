@@ -24,6 +24,7 @@
 
 >LLM safety is a huge body of knowledge that is important and relevant to society today. The purpose of this Awesome list is to provide the community with the necessary knowledge on how to build an LLM development process - safe, as well >as what threats may be encountered along the way. Everyone is welcome to contribute. 
 
+> [!IMPORTANT]
 >This repository, unlike many existing repositories, emphasizes the practical implementation of security and does not provide a lot of references to arxiv in the description.
 
 ---
