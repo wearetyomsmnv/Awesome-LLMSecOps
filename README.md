@@ -372,6 +372,9 @@
 |------|-------------|-------|
 | [invariant](https://github.com/invariantlabs-ai/invariant) | A trace analysis tool for AI agents. | ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) |
 | [AgentBench](https://github.com/THUDM/AgentBench) | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
+| [Agent Hijacking, the thrue impact of prompt injection](https://dev.to/snyk/agent-hijacking-the-true-impact-of-prompt-injection-attacks-983) | Guide for attack langchain agents) | Article |
+| [Damn Vulnerable Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent ) |Vulnerable LLM Agent | ![GitHub stars](https://img.shields.io/github/stars/WithSecureLabs/damn-vulnerable-llm-agent?style=social)  |
+| [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org/pdf/2407.20859v1) | Research about typical agent vulnerabilities | Article |
 
 ## PoC
 
@@ -506,9 +509,15 @@
   <tr>
     <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>OWASP LLM TOP 10</b></sub></a><br />10 vulnerabilities for llm</td>
     <td align="center"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-governance-doc/LLM_AI_Security_and_Governance_Checklist-v1.pdf"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>LLM AI Cybersecurity & Governance Checklist 2</b></sub></a><br />Brief explanation</td>
+    <td align="center"><a href="https://docs.google.com/document/d/1_F-1xp78LjyIiAwuO_II6enWBbOqKkYWFw2CpfZJ45U/edit?_bhlid=b838ad7e2c992ac7bb0133cb539a82a64b0c6ea5"><img src="https://owasp.org/assets/images/logo.png" width="100px;" alt=""/><br /><sub><b>LLMSecOps Cybersecurity Solution Landscape</b></sub></a><br />Brief explanation</td>
   </tr>
 </table>
 </div>
+
+
+**LLMSECOPS, by OWASP**
+
+![Group 12](https://github.com/user-attachments/assets/bf97f232-8532-450e-86bc-0ec39c5efe41)
 
 
 
