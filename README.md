@@ -374,6 +374,7 @@
 | [AgentBench](https://github.com/THUDM/AgentBench) | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
 | [Agent Hijacking, the thrue impact of prompt injection](https://dev.to/snyk/agent-hijacking-the-true-impact-of-prompt-injection-attacks-983) | Guide for attack langchain agents) | Article |
 | [Damn Vulnerable Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent ) |Vulnerable LLM Agent | ![GitHub stars](https://img.shields.io/github/stars/WithSecureLabs/damn-vulnerable-llm-agent?style=social)  |
+| [Agent Security Bench (ASB)](https://github.com/agiresearch/ASB)| Benchmark for agent security| ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social)  |
 | [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org/pdf/2407.20859v1) | Research about typical agent vulnerabilities | Article |
 
 ## PoC
