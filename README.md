@@ -270,6 +270,11 @@
 | [HaizeLabs jailbreak Database](https://launch.haizelabs.com/)| This database contains jailbreaks for multimodal language models|
 | [Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark) | A benchmark for prompt injection detection systems. | 
 
+## LLM Intrpretability
+
+| Resource | Description |
+|----------|-------------|
+| [Интерпретируемость LLM](https://kolodezev.ru/interpretable_llm.html)| Dmitry Kolodezev's web page, which provides useful resources with LLM interpretation techniques| 
 
 ## PINT Benchmark scores (by lakera)
 
