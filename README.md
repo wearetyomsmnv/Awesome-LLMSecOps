@@ -262,13 +262,14 @@
 
 ## Jailbreaks
 
-| Resource | Description |
-|----------|-------------|
+| Resource | Description | Stars |
+|----------|-------------|-------|
 | [JailbreakBench](https://jailbreakbench.github.io/) | Website dedicated to evaluating and analyzing jailbreak methods for language models |
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking |
 | [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attack against Large Language Models|
 | [HaizeLabs jailbreak Database](https://launch.haizelabs.com/)| This database contains jailbreaks for multimodal language models|
 | [Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark) | A benchmark for prompt injection detection systems. | 
+| [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) | An easy-to-use Python framework to generate adversarial jailbreak prompts | ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) |
 
 ## LLM Intrpretability
 
@@ -368,6 +369,7 @@
 | [Adversarial AI - RAG Attacks and Mitigations](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG) | GitHub repository on RAG attacks, mitigations, and defense strategies |
 | [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) | GitHub repository about poisoned RAG systems |
 | [ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](https://arxiv.org/html/2408.04870v1) | Article about RAG vulnerabilities |
+| [Awesome Jailbreak on LLMs - RAG Attacks](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#attack-on-rag-based-llm) | Collection of RAG-based LLM attack techniques |
 
 ![image](https://github.com/user-attachments/assets/e0df02b1-9d7d-40ac-ba1b-b6f69ae68073)
 
@@ -405,6 +407,9 @@
 | [TrojText](https://github.com/UCF-ML-Research/TrojText) | Trojan Attacks on Text Classifiers | ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) |
 | [AnyDoor](https://github.com/sail-sg/AnyDoor) | Create Arbitrary Backdoor Instances in Language Models | ![GitHub stars](https://img.shields.io/github/stars/sail-sg/AnyDoor?style=social) |
 | [PromptWare](https://github.com/StavC/PromptWares) | A Jailbroken GenAI Model Can Cause Real Harm: GenAI-powered Applications are Vulnerable to PromptWares | ![GitHub stars](https://img.shields.io/github/stars/StavC/PromptWares?style=social) |
+| [BrokenHill](https://github.com/BishopFox/BrokenHill) | Automated attack tool that generates crafted prompts to bypass restrictions in LLMs using greedy coordinate gradient (GCG) attack | ![GitHub stars](https://img.shields.io/github/stars/BishopFox/BrokenHill?style=social) |
+| [LLaMator](https://github.com/RomiconEZ/LLaMator) | Framework for testing vulnerabilities of large language models with support for Russian language | ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social) |
+| [OWASP Agentic AI](https://github.com/precize/OWASP-Agentic-AI/) | OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version | ![GitHub stars](https://img.shields.io/github/stars/precize/OWASP-Agentic-AI?style=social) |
 
 
 ---
@@ -437,6 +442,9 @@
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
 | [📄 Detecting Prompt Injection: BERT-based Classifier](https://labs.withsecure.com/publications/detecting-prompt-injection-bert-based-classifier) | WithSecure Labs | 2024 |
 | [📄 Practical LLM Security: Takeaways From a Year in the Trenches](http://i.blackhat.com/BH-US-24/Presentations/US24-Harang-Practical-LLM-Security-Takeaways-From-Wednesday.pdf?_gl=1*1rlcqet*_gcl_au*MjA4NjQ5NzM4LjE3MjA2MjA5MTI.*_ga*OTQ0NTQ2MTI5LjE3MjA2MjA5MTM.*_ga_K4JK67TFYV*MTcyMzQwNTIwMS44LjEuMTcyMzQwNTI2My4wLjAuMA..&_ga=2.168394339.31932933.1723405201-944546129.1720620913) | NVIDIA | 2024 |
+| [📄 Security ProbLLMs in xAI's Grok](https://embracethered.com/blog/posts/2024/security-probllms-in-xai-grok/) | Embrace The Red | 2024 |
+| [📄 Persistent Pre-Training Poisoning of LLMs](https://spylab.ai/blog/poisoning-pretraining/) | SpyLab AI | 2024 |
+| [📄 Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/pdf/2411.09523) | Multiple Authors | 2024 |
 
 
 ## 🎓 Tutorials
@@ -560,10 +568,16 @@
 | Rebuff | Self-hardening prompt injection detector for AI applications, using a multi-layered protection mechanism. | https://github.com/rebuff |
 | Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.robustintelligence.com/ |
 | WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/ |
+| [LLMbotomy: Shutting the Trojan Backdoors](http://i.blackhat.com/EU-24/Presentations/EU-24-Voros-LLMBotomyShuttingTheTrojanBackdoors.pdf) | BlackHat EU 2024: Novel approach to mitigate LLM Trojans through targeted noising of neurons |
+| [Mind the Data Gap: Privacy Challenges in Autonomous AI Agents](http://i.blackhat.com/EU-24/Presentations/EU-24-Pappu-Mind-the-Data-Gap.pdf) | BlackHat EU 2024: Exploring key vulnerabilities in multi-agent AI systems |
 
 </div>
 
+## Benchmarks
 
-
-
-
+| Resource | Description | Stars |
+|----------|-------------|-------|
+| [LLM Security Guidance Benchmarks](https://github.com/davisconsultingservices/llm_security_guidance_benchmarks) | Benchmarking lightweight, open-source LLMs for security guidance effectiveness using SECURE dataset | ![GitHub stars](https://img.shields.io/github/stars/davisconsultingservices/llm_security_guidance_benchmarks?style=social) |
+| [SECURE](https://github.com/aiforsec/SECURE) | Benchmark for evaluating LLMs in cybersecurity scenarios, focusing on Industrial Control Systems | ![GitHub stars](https://img.shields.io/github/stars/aiforsec/SECURE?style=social) |
+| [NIST AI TEVV](https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv) | AI Test, Evaluation, Validation and Verification framework by NIST | N/A |
+| [Taming the Beast: Inside the Llama 3 Red Teaming Process](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Aaron%20Grattafiori%20Ivan%20Evtimov%20Joanna%20Bitton%20Maya%20Pavlova%20-%20Taming%20the%20Beast%20-%20Inside%20the%20Llama%203%20Red%20Team%20Process.pdf) | DEF CON 32 presentation on Llama 3 red teaming | 2024 |
