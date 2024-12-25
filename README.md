@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## 3 types of LLM architecture
+## 3 types of models
 
 ![Group3](https://github.com/user-attachments/assets/0079c134-be60-42b0-afaa-a5df9bb7ece3)
 
