@@ -539,6 +539,9 @@
 
 <table align="center"> <tr> <td align="center"> <h3>OWASP LLMSVS</h3> <p><strong>Large Language Model Security Verification Standard</strong></p> <p><a href="https://owasp.org/www-project-llm-verification-standard/">Project Link</a></p> </td> </tr> <tr> <td align="center"> <p>The primary aim of the OWASP LLMSVS Project is to provide an open security standard for systems which leverage artificial intelligence and Large Language Models.</p> <p>The standard provides a basis for designing, building, and testing robust LLM backed applications, including:</p> <ul style="list-style-type: none; padding: 0;"> <li>Architectural concerns</li> <li>Model lifecycle</li> <li>Model training</li> <li>Model operation and integration</li> <li>Model storage and monitoring</li> </ul> </td> </tr> </table> </div>
 
+
+![image](https://github.com/user-attachments/assets/f5453935-f86a-401c-884c-14410d4c1a1c)
+
 ---
 
 ## 🌐 Community
