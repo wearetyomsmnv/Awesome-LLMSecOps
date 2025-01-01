@@ -226,6 +226,11 @@
 <td><a href="https://ai.raftds.ru/security/#">🔍 LLM Data Protector</a></td>
 <td>Tools for protected LLM in chatbots</td>
 </tr>
+<tr>
+<td><a href="https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/responsible-ai/gemini_prompt_attacks_mitigation_examples.ipynb">🔍 Gen AI & LLM Security for developers: Prompt attack mitigations on gemeni</a></td>
+<td>Security tool for LLM applications.</td>
+<td><img src="https://img.shields.io/github/stars/GoogleCloudPlatform/generative-ai/?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 </div>
