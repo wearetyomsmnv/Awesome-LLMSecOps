@@ -124,6 +124,11 @@
 <td>The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.</td>
 <td><img src="https://img.shields.io/github/stars/Azure/PyRIT?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/promptfoo/promptfoo">🔧 promptfoo</a></td>
+<td>LLM red teaming and evaluation framework. Test for jailbreaks, prompt injection, and other vulnerabilities with adversarial attacks (PAIR, tree-of-attacks, crescendo). CI/CD integration.</td>
+<td><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 
