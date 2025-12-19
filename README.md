@@ -236,6 +236,11 @@
 <td>Security tool for LLM applications.</td>
 <td><img src="https://img.shields.io/github/stars/GoogleCloudPlatform/generative-ai/?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/NeuralTrust/TrustGate">🔍 TrustGate</a></td>
+<td>Generative Application Fireall to detects and blocks attacks against GenAI Applications.</td>
+<td><img src="https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 </div>
@@ -582,6 +587,7 @@
 | Rebuff | Self-hardening prompt injection detector for AI applications, using a multi-layered protection mechanism. | https://github.com/rebuff |
 | Robust Intelligence | Provides AI firewall and continuous testing and evaluation. Creators of the airisk.io database donated to MITRE. | https://www.robustintelligence.com/ |
 | WhyLabs | Protects LLMs from security threats, focusing on data leak prevention, prompt injection monitoring, and misinformation prevention. | https://www.whylabs.ai/ |
+| NeuralTrust | Protects GenAI Applications in real-time providing a Generative Application Firewall and monitors and tests continuosly through red teaming automation tools  | https://neuraltrust.ai |
 | [LLMbotomy: Shutting the Trojan Backdoors](http://i.blackhat.com/EU-24/Presentations/EU-24-Voros-LLMBotomyShuttingTheTrojanBackdoors.pdf) | BlackHat EU 2024: Novel approach to mitigate LLM Trojans through targeted noising of neurons |
 | [Mind the Data Gap: Privacy Challenges in Autonomous AI Agents](http://i.blackhat.com/EU-24/Presentations/EU-24-Pappu-Mind-the-Data-Gap.pdf) | BlackHat EU 2024: Exploring key vulnerabilities in multi-agent AI systems |
 
