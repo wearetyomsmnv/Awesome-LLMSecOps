@@ -238,6 +238,12 @@
 <td><img src="https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social" alt="GitHub stars"></td>
 </tr>
 <tr>
+<tr>
+<td><a href="https://github.com/tenuo-ai/tenuo">🛡️ Tenuo</a></td>
+<td>Capability tokens for AI agents with task-scoped TTLs, offline verification and proof-of-possession binding.</td>
+<td><img src="https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://edward-playground.github.io/aidefense-framework/">🛡️ AIDEFEND</a></td>
 <td>Practical knowledge base for AI security defenses. Based on MAESTRO framework, MITRE D3FEND, ATLAS, ATT&CK, Google Secure AI Framework, and OWASP Top 10 LLM 2025/ML Security 2023.</td>
 <td>N/A</td>
@@ -367,6 +373,8 @@
 | [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security) | Curated list of MCP security resources | ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social) |
 | [Awesome LLM Agent Security](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) | Comprehensive collection of LLM agent security resources, attacks, vulnerabilities | ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) |
 | [MCP Security Analysis](https://arxiv.org/pdf/2511.03841) | Research paper on MCP security vulnerabilities and analysis | Article |
+| [Tenuo](https://github.com/tenuo-ai/tenuo) | Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations. | ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) |
+
 
 ## Agentic Browser Security
 
