@@ -127,6 +127,11 @@
 <td>Comprehensive testing framework for LLM applications. Tests prompt injection, jailbreaks, and other vulnerabilities. Supports custom targets, attacks, judges, and guardrail evaluation</td>
 <td><img src="https://img.shields.io/github/stars/ReversecLabs/spikee?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/KOKOSde/localmod">🛡️ LocalMod</a></td>
+<td>Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW filtering. Runs 100% offline.</td>
+<td><img src="https://img.shields.io/github/stars/KOKOSde/localmod?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
