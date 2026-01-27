@@ -446,6 +446,7 @@
 | [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) | Intentionally vulnerable LLM agent for security testing and education |
 | [GPT Agents Arena](https://gpa.43z.one/) | Platform for testing and evaluating LLM agents in various scenarios |
 | [AI Battle](https://play.secdim.com/game/ai-battle) | Interactive game focusing on AI security challenges |
+| [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) | Challenges to test your knowledge of AI, ML, and LLMs |
 | [TryHackMe AI/ML Security Threats](https://medium.com/genai-llm-security/tryhackme-ai-ml-security-threats-walkthrough-writeup-04abd3f717ca) | Walkthrough and writeup for TryHackMe AI/ML Security Threats room | Article |
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
