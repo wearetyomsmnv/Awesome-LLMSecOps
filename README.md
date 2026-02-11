@@ -285,6 +285,7 @@
 | Tool | Description |
 |------|-------------|
 |[Langfuse](https://langfuse.com/) | Open Source LLM Engineering Platform with security capabilities. |
+|[Opik](https://github.com/comet-ml/opik) | Open-source platform for LLM observability, evaluations, and prompt optimization. |
 |[HiveTrace](https://hivetrace.ru/preview/) | LLM monitoring and security platform for GenAI applications. Detects prompt injection, jailbreaks, malicious HTML/Markdown elements, and PII. Provides real-time anomaly detection and security alerts. |
 
 ## Watermarking
