@@ -168,6 +168,11 @@
 <th>Stars</th>
 </tr>
 <tr>
+<td><a href="https://github.com/LuciferForge/prompt-shield">🛡️ ai-injection-guard</a></td>
+<td>Regex-based prompt injection detector + output scanner (secrets, PII, system prompt leakage). 75 patterns, zero dependencies, <1ms.</td>
+<td><img src="https://img.shields.io/github/stars/LuciferForge/prompt-shield?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/meta-llama/PurpleLlama">🛡️ PurpleLlama</a></td>
 <td>Set of tools to assess and improve LLM security.</td>
 <td><img src="https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social" alt="GitHub stars"></td>
