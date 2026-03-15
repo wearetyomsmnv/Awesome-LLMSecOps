@@ -153,6 +153,7 @@
 | **3. External Filters (Guardrails)** | **Llama Guard** | A specialized LLM-classifier that checks incoming prompts and outgoing responses for compliance with a risk taxonomy (MLCommons). | Meta |
 | | **NeMo Guardrails** | A programmable dialogue management system. It uses the Colang language for strict topic adherence and attack blocking. | NVIDIA |
 | | **Prompt Guard / Shields** | Lightweight models (based on BERT/DeBERTA) for detecting jailbreaks and prompt injections before they reach the LLM. | Meta, Azure AI |
+| | **[Omega Walls (Ω)](https://github.com/synqratech/omega-walls)** | Deterministic runtime trust-boundary for RAG/agents: projects untrusted content into wall-pressures, accumulates session scar-mass, triggers auditable Off; enables doc blocking + tool-freeze. | SynqraTech (OSS) |
 | | **SmoothLLM** | A randomized smoothing method: creating copies of a prompt with symbolic perturbations to disrupt the structure of adversarial attacks (e.g., GCG suffixes). | Researchers (SmoothLLM authors) |
 | | **Google Safety Filters** | Multi-level content filtering with customizable sensitivity thresholds and semantic vector analysis. | Google (Gemini API) |
 | **4. System Instructions** | **System Prompts / Tags** | Using special tokens (e.g., `</start_header_id>`) to separate system and user instructions. | OpenAI, Meta, Anthropic |
@@ -226,6 +227,11 @@
 <td><a href="https://github.com/safellama/plexiglass">🔍 Plexiglass</a></td>
 <td>Security tool for LLM applications.</td>
 <td><img src="https://img.shields.io/github/stars/safellama/plexiglass?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/synqratech/omega-walls">🛡️ Omega Walls</a></td>
+<td>Deterministic Ω trust boundary for RAG/agents: wall-pressures + accumulation (scar-mass) + auditable Off; supports doc soft-block + tool-freeze.</td>
+<td><img src="https://img.shields.io/github/stars/synqratech/omega-walls?style=social" alt="GitHub stars"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/tldrsec/prompt-injection-defenses">🔍 Prompt Injection defenses</a></td>
