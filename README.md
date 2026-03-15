@@ -132,6 +132,11 @@
 <td>Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW filtering. Runs 100% offline.</td>
 <td><img src="https://img.shields.io/github/stars/KOKOSde/localmod?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/venkat22022202/black-vault">🔐 Black Vault</a></td>
+<td>Open-source proxy gateway for AI API keys with AES-256-GCM encryption and instant kill switches. Protects against credential theft in agentic workflows.</td>
+<td><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
@@ -391,7 +396,7 @@
 | [Awesome LLM Agent Security](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) | Comprehensive collection of LLM agent security resources, attacks, vulnerabilities | ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) |
 | [MCP Security Analysis](https://arxiv.org/pdf/2511.03841) | Research paper on MCP security vulnerabilities and analysis | Article |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations. | ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) |
-
+| [AgentLeak](https://github.com/Privatris/AgentLeak) | Full-stack benchmark for privacy leakage in multi-agent systems. Monitors 7 channels including tool calls, RAG queries, and inter-agent messages. | ![GitHub stars](https://img.shields.io/github/stars/Privatris/AgentLeak?style=social) |
 
 ## Agentic Browser Security
 
