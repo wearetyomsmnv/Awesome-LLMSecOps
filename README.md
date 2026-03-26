@@ -124,6 +124,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/ReversecLabs/spikee">🔧 Spikee</a></td>
+<tr><td><a href="https://prefactor.tech/">🔧 Prefactor</a></td><td>AI agent runtime control plane with observability, governance, and security features for regulated industries</td><td><img src="https://img.shields.io/github/stars/wearetyomsmnv/awesome-llmsecops?style=social" alt="GitHub stars"></td></tr>
 <td>Comprehensive testing framework for LLM applications. Tests prompt injection, jailbreaks, and other vulnerabilities. Supports custom targets, attacks, judges, and guardrail evaluation</td>
 <td><img src="https://img.shields.io/github/stars/ReversecLabs/spikee?style=social" alt="GitHub stars"></td>
 </tr>
