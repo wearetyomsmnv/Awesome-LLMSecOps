@@ -319,6 +319,7 @@
 
 | Resource | Description | Stars |
 |----------|-------------|-------|
+| [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) | Internal Safety Collapse: jailbreaks any frontier LLM in pass@3 via normal task completion — no adversarial prompting. Black-box, cross-domain. [[Paper]](https://arxiv.org/abs/2603.23509) | ![GitHub stars](https://img.shields.io/github/stars/wuyoscar/ISC-Bench?style=social) |
 | [JailbreakBench](https://jailbreakbench.github.io/) | Website dedicated to evaluating and analyzing jailbreak methods for language models | N/A |
 | [L1B3RT45](https://github.com/elder-plinius/L1B3RT45/) | GitHub repository containing information and tools related to AI jailbreaking | ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/L1B3RT45?style=social) |
 | [llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)|This repository contains various attacks against Large Language Models| ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) |
