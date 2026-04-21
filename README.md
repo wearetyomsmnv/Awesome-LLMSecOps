@@ -270,6 +270,11 @@
 <td>Practical knowledge base for AI security defenses. Based on MAESTRO framework, MITRE D3FEND, ATLAS, ATT&CK, Google Secure AI Framework, and OWASP Top 10 LLM 2025/ML Security 2023.</td>
 <td>N/A</td>
 </tr>
+<tr>
+<td><a href="https://github.com/labrat-akhona/semantix-ai">🛡️ semantix-ai</a></td>
+<td>Deterministic semantic validation of LLM outputs via local quantized NLI. Catches policy violations and negated intents ("must NOT give medical advice"), emits hash-chained JSON-LD audit certificates. ~15 ms/call, no API keys.</td>
+<td><img src="https://img.shields.io/github/stars/labrat-akhona/semantix-ai?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 </div>
