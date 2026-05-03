@@ -403,6 +403,8 @@
 | [MCP Security Analysis](https://arxiv.org/pdf/2511.03841) | Research paper on MCP security vulnerabilities and analysis | Article |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations. | ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) |
 | [AgentLeak](https://github.com/Privatris/AgentLeak) | Full-stack benchmark for privacy leakage in multi-agent systems. Monitors 7 channels including tool calls, RAG queries, and inter-agent messages. | ![GitHub stars](https://img.shields.io/github/stars/Privatris/AgentLeak?style=social) |
+| [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
+
 
 ## Agentic Browser Security
 
