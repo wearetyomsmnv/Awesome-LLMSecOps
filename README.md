@@ -275,6 +275,7 @@
 <td>Deterministic semantic validation of LLM outputs via local quantized NLI. Catches policy violations and negated intents ("must NOT give medical advice"), emits hash-chained JSON-LD audit certificates. ~15 ms/call, no API keys.</td>
 <td><img src="https://img.shields.io/github/stars/labrat-akhona/semantix-ai?style=social" alt="GitHub stars"></td>
 </tr>
+  <tr><td><a href="https://github.com/agentguard-ai/tealtiger">🛡️ TealTiger</a></td><td>Deterministic runtime governance for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence). 500+ secret patterns, tool allowlisting, SARIF export, Docker sidecar. No LLM in the decision path.</td><td><img src="https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social" alt="GitHub stars"></td></tr>
 </table>
 
 </div>
@@ -403,6 +404,8 @@
 | [MCP Security Analysis](https://arxiv.org/pdf/2511.03841) | Research paper on MCP security vulnerabilities and analysis | Article |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations. | ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) |
 | [AgentLeak](https://github.com/Privatris/AgentLeak) | Full-stack benchmark for privacy leakage in multi-agent systems. Monitors 7 channels including tool calls, RAG queries, and inter-agent messages. | ![GitHub stars](https://img.shields.io/github/stars/Privatris/AgentLeak?style=social) |
+| [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
+
 
 ## Agentic Browser Security
 
