@@ -275,6 +275,7 @@
 <td>Deterministic semantic validation of LLM outputs via local quantized NLI. Catches policy violations and negated intents ("must NOT give medical advice"), emits hash-chained JSON-LD audit certificates. ~15 ms/call, no API keys.</td>
 <td><img src="https://img.shields.io/github/stars/labrat-akhona/semantix-ai?style=social" alt="GitHub stars"></td>
 </tr>
+  <tr><td><a href="https://github.com/agentguard-ai/tealtiger">🛡️ TealTiger</a></td><td>Deterministic runtime governance for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence). 500+ secret patterns, tool allowlisting, SARIF export, Docker sidecar. No LLM in the decision path.</td><td><img src="https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social" alt="GitHub stars"></td></tr>
 </table>
 
 </div>
@@ -404,6 +405,7 @@
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations. | ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) |
 | [AgentLeak](https://github.com/Privatris/AgentLeak) | Full-stack benchmark for privacy leakage in multi-agent systems. Monitors 7 channels including tool calls, RAG queries, and inter-agent messages. | ![GitHub stars](https://img.shields.io/github/stars/Privatris/AgentLeak?style=social) |
 | [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
+| [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 
 
 ## Agentic Browser Security
@@ -473,6 +475,7 @@
 | [AI Battle](https://play.secdim.com/game/ai-battle) | Interactive game focusing on AI security challenges |
 | [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) | Challenges to test your knowledge of AI, ML, and LLMs |
 | [TryHackMe AI/ML Security Threats](https://medium.com/genai-llm-security/tryhackme-ai-ml-security-threats-walkthrough-writeup-04abd3f717ca) | Walkthrough and writeup for TryHackMe AI/ML Security Threats room | Article |
+| [PromptTrace](https://prompttrace.airedlab.com) | Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. 10 labs + 15-level CTF (The Gauntlet) + 9 learning modules aligned with OWASP Top 10 for LLMs. |
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
 
