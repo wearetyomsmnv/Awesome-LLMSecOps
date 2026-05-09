@@ -29,6 +29,7 @@
 <div align="center">
 
 ## Architecture risks
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) – An official OWASP security framework for protecting AI agent memory from poisoning, injection, and exfiltration attacks. Provides detection middleware, sanitization hooks, and audit logging for LangChain, LlamaIndex, and custom agent pipelines.
 
 *Overview of fundamental architectural risks and challenges in LLM systems.*
 
