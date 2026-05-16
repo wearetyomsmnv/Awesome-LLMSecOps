@@ -104,6 +104,11 @@
 <td><img src="https://img.shields.io/github/stars/msoedov/agentic_security?style=social" alt="GitHub stars"></td>
 </tr>
 <tr>
+<td><a href="https://github.com/ArmorerLabs/Armorer-Guard">🛡️ Armorer Guard</a></td>
+<td>Rust-native local scanner for AI-agent prompt injection, credential leakage, exfiltration, MCP context, and dangerous tool-call enforcement.</td>
+<td><img src="https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/LostOxygen/llm-confidentiality">🔒 LLM Confidentiality</a></td>
 <td>Tool for ensuring confidentiality in LLMs</td>
 <td><img src="https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social" alt="GitHub stars"></td>
