@@ -186,6 +186,11 @@
 <td><img src="https://img.shields.io/github/stars/LuciferForge/prompt-shield?style=social" alt="GitHub stars"></td>
 </tr>
 <tr>
+<td><a href="https://github.com/mshirakawa-ssp/ai-scan-interceptor">🛡️ AI-Scan-Interceptor</a></td>
+<td>Self-hostable DLP gateway controlling prompts sent from enterprise networks to ChatGPT, Claude, and Gemini. Go + Squid + ICAP policy engine, mTLS endpoint identity, AGPL-3.0.</td>
+<td><img src="https://img.shields.io/github/stars/mshirakawa-ssp/ai-scan-interceptor?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/meta-llama/PurpleLlama">🛡️ PurpleLlama</a></td>
 <td>Set of tools to assess and improve LLM security.</td>
 <td><img src="https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social" alt="GitHub stars"></td>
