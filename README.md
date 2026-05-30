@@ -321,6 +321,8 @@
 |[Langfuse](https://langfuse.com/) | Open Source LLM Engineering Platform with security capabilities. |
 |[Opik](https://github.com/comet-ml/opik) | Open-source platform for LLM observability, evaluations, and prompt optimization. |
 |[HiveTrace](https://hivetrace.ru/preview/) | LLM monitoring and security platform for GenAI applications. Detects prompt injection, jailbreaks, malicious HTML/Markdown elements, and PII. Provides real-time anomaly detection and security alerts. |
+|[ai-evaluation by Future AGI](https://github.com/future-agi/ai-evaluation) | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support. |
+|[Future AGI](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. |
 
 ## Watermarking
 
