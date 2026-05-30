@@ -322,6 +322,7 @@
 |[HiveTrace](https://hivetrace.ru/preview/) | LLM monitoring and security platform for GenAI applications. Detects prompt injection, jailbreaks, malicious HTML/Markdown elements, and PII. Provides real-time anomaly detection and security alerts. |
 |[ai-evaluation by Future AGI](https://github.com/future-agi/ai-evaluation) | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support. |
 |[Future AGI](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. |
+|[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) |  AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend) |
 
 ## Watermarking
 
@@ -694,4 +695,4 @@
 | [NIST AI TEVV](https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv) | AI Test, Evaluation, Validation and Verification framework by NIST | N/A |
 | [Taming the Beast: Inside the Llama 3 Red Teaming Process](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Aaron%20Grattafiori%20Ivan%20Evtimov%20Joanna%20Bitton%20Maya%20Pavlova%20-%20Taming%20the%20Beast%20-%20Inside%20the%20Llama%203%20Red%20Team%20Process.pdf) | DEF CON 32 presentation on Llama 3 red teaming | 2024 |
 | [SecLens](https://github.com/mattersec-labs/seclens) | Benchmark for evaluating LLMs on real-world vulnerability detection using 406 confirmed CVEs across 10 languages. Scores 12 frontier models through 5 stakeholder lenses and 35 dimensions aligned with OWASP categories. [Paper](https://arxiv.org/abs/2604.01637) | ![GitHub stars](https://img.shields.io/github/stars/mattersec-labs/seclens?style=social) |
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
+
