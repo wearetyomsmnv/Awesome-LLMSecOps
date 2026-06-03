@@ -421,6 +421,7 @@
 | [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
 | [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
+| [Vertex](https://vertex.blue) | Zero-trust proxy between an AI agent and the APIs it calls: the operator vaults the real provider key and the agent only ever receives a scoped token, with per-service/method policy, spend caps, taint-based blocking of sensitive/financial calls after untrusted context, and a tamper-evident audit log. | Website |
 
 
 ## Agentic Browser Security
