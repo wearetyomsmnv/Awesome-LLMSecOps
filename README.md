@@ -423,6 +423,7 @@
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain behavioral trust scoring for LLM/AI agents on Solana. Score agent wallet reputation before granting sensitive LLM operations access. Supports x402 micropayment-gated trust receipts for agent-to-agent attestation. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Agentic Browser Security
 
 *Security research and analysis of AI-powered browser agents and their unique attack vectors.*
