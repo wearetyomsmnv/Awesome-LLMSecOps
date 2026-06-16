@@ -433,6 +433,7 @@
 | [Agentic Browser Security Analysis](https://arxiv.org/html/2506.07153v2) | Research paper on security vulnerabilities in agentic browsers | Article |
 | [Browser AI Agents: The New Weakest Link](https://labs.sqrx.com/browser-ai-agents-the-new-weakest-link-22a38a552d7f) | Analysis of security risks in browser-based AI agents | Sqrx Labs |
 | [Comet Prompt Injection Vulnerability](https://brave.com/blog/comet-prompt-injection/) | Brave's analysis of prompt injection vulnerabilities in Perplexity Comet browser | Brave |
+| [🛡️ Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) | Open-source safety layer between browser-use AI agents and the web pages they visit. Masks PII/secrets, blocks prompt injection in invisible text and HTML comments, and strips dark patterns and noise. Chromium MV3 extension, also on Browserbase and ClawHub. | PixieBrix |
 
 ## PoC
 
