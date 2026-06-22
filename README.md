@@ -421,6 +421,7 @@
 | [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
 | [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
+| [fak](https://github.com/anthony-chaudhary/fak) | In-process default-deny "agent tool firewall" (single Go binary): adjudicates every agent / MCP tool call on the call path the model can’t control — irreversible actions fail closed — and quarantines suspicious tool results out of the model’s context to contain prompt injection and tool poisoning. Fronts OpenAI / Anthropic / MCP. Apache-2.0. | ![GitHub stars](https://img.shields.io/github/stars/anthony-chaudhary/fak?style=social) |
 
 
 ## Agentic Browser Security
