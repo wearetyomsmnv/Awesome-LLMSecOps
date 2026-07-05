@@ -491,6 +491,7 @@
 | [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) | Challenges to test your knowledge of AI, ML, and LLMs |
 | [TryHackMe AI/ML Security Threats](https://medium.com/genai-llm-security/tryhackme-ai-ml-security-threats-walkthrough-writeup-04abd3f717ca) | Walkthrough and writeup for TryHackMe AI/ML Security Threats room | Article |
 | [PromptTrace](https://prompttrace.airedlab.com) | Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. 10 labs + 15-level CTF (The Gauntlet) + 9 learning modules aligned with OWASP Top 10 for LLMs. |
+| [AI RiskAtlas](https://riskatlas.principle.sg) | Free interactive learning lab for AI/LLM/agentic security. 91 sourced real-world incident cases with root-cause and architecture walkthroughs, 34 hands-on attack-scenario simulations, risk taxonomy cross-mapped to OWASP LLM Top 10 / MITRE ATLAS, and a preventive/detective/corrective control library. |
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
 
