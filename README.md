@@ -421,6 +421,8 @@
 | [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
 | [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
+| [DOS Kernel](https://github.com/anthony-chaudhary/dos-kernel) | Deterministic trust kernel for agent fleets: verifies "done" claims from git evidence instead of self-report, arbitrates concurrent file access, audits commit claims against their own diffs. | ![GitHub stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) |
+| [Adrian](https://github.com/secureagentics/Adrian) | Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline. | ![GitHub stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) |
 | [keyrotate](https://github.com/sophie4869/keyrotate) | Rotates and syncs secrets across local `.env`, cloud providers (Vercel/Cloud Run/GCP SM/Koyeb), GitHub Actions, and MongoDB Atlas — with cross-project propagation for shared values (e.g., a JWT signing key used by an auth service and its downstream verifiers). LLM agents interact via a values-free JSON inventory + CLI subcommands (`secret list / notes / pull`) — programmatic secret management without ever reading `.env` file contents. Ships a Claude Code skill template teaching this protocol. | ![GitHub stars](https://img.shields.io/github/stars/sophie4869/keyrotate?style=social) |
 
 
@@ -434,6 +436,7 @@
 | [Agentic Browser Security Analysis](https://arxiv.org/html/2506.07153v2) | Research paper on security vulnerabilities in agentic browsers | Article |
 | [Browser AI Agents: The New Weakest Link](https://labs.sqrx.com/browser-ai-agents-the-new-weakest-link-22a38a552d7f) | Analysis of security risks in browser-based AI agents | Sqrx Labs |
 | [Comet Prompt Injection Vulnerability](https://brave.com/blog/comet-prompt-injection/) | Brave's analysis of prompt injection vulnerabilities in Perplexity Comet browser | Brave |
+| [🛡️ Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) | Open-source safety layer between browser-use AI agents and the web pages they visit. Masks PII/secrets, blocks prompt injection in invisible text and HTML comments, and strips dark patterns and noise. Chromium MV3 extension, also on Browserbase and ClawHub. | PixieBrix |
 
 ## PoC
 
@@ -492,6 +495,8 @@
 | [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) | Challenges to test your knowledge of AI, ML, and LLMs |
 | [TryHackMe AI/ML Security Threats](https://medium.com/genai-llm-security/tryhackme-ai-ml-security-threats-walkthrough-writeup-04abd3f717ca) | Walkthrough and writeup for TryHackMe AI/ML Security Threats room | Article |
 | [PromptTrace](https://prompttrace.airedlab.com) | Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. 10 labs + 15-level CTF (The Gauntlet) + 9 learning modules aligned with OWASP Top 10 for LLMs. |
+| [hego.red](https://hego.red/) | Practical, hands-on AI/LLM red teaming notes: prompt injection, jailbreaks, indirect injection, RAG poisoning, agent and tool attacks, with a full methodology and worked labs |
+| [AI RiskAtlas](https://riskatlas.principle.sg) | Free interactive learning lab for AI/LLM/agentic security. 91 sourced real-world incident cases with root-cause and architecture walkthroughs, 34 hands-on attack-scenario simulations, risk taxonomy cross-mapped to OWASP LLM Top 10 / MITRE ATLAS, and a preventive/detective/corrective control library. |
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
 
