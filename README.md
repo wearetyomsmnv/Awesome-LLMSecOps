@@ -424,6 +424,7 @@
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
 | [DOS Kernel](https://github.com/anthony-chaudhary/dos-kernel) | Deterministic trust kernel for agent fleets: verifies "done" claims from git evidence instead of self-report, arbitrates concurrent file access, audits commit claims against their own diffs. | ![GitHub stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) |
 | [Adrian](https://github.com/secureagentics/Adrian) | Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline. | ![GitHub stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Scans skills, MCP servers, and plugins for supply-chain threats. | ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) |
 
 
 ## Agentic Browser Security
