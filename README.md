@@ -681,6 +681,7 @@
 | [Lakera AI Security resource hub](https://docs.google.com/spreadsheets/d/1tv3d2M4-RO8xJYiXp5uVvrvGWffM-40La18G_uFZlRM/edit?gid=639798153#gid=639798153) | Google Sheets document |
 | [llm-testing-findings](https://github.com/BishopFox/llm-testing-findings/)| Templates with recommendations, CWE and other | 
 | [Arcanum Prompt Injection Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy/tree/main) | Structured taxonomy of prompt injection attacks categorizing attack intents, techniques, and evasions. Resource for security researchers, AI developers, and red teamers. | ![GitHub stars](https://img.shields.io/github/stars/Arcanum-Sec/arc_pi_taxonomy?style=social) |
+| [awesome-agent-runtime-security](https://github.com/bureado/awesome-agent-runtime-security) | An imperfect, incomplete collection of projects proving the integrity of tools, tool descriptions, models, data sources, and provenance by combining isolation, sandboxing, security observability, and server-constrained or client-bound tokens. | ![Github_stars](https://img.shields.io/github/stars/bureado/awesome-agent-runtime-security?style=social) |
 
 </div>
 
