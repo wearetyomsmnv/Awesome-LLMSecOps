@@ -408,6 +408,7 @@
 | Tool | Description | Stars |
 |------|-------------|-------|
 | [invariant](https://github.com/invariantlabs-ai/invariant) | A trace analysis tool for AI agents. | ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) |
+| [Nika](https://github.com/supernovae-st/nika) | Open-source Rust workflow engine for AI agents with security in the runtime: default-deny permits (fs/net/exec/tool allowlists), static secret-flow analysis before any run, cost floors, tamper-evident hash-chained traces verifiable via nika trace verify, read-only MCP oracle. | ![GitHub stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social) |
 | [AgentBench](https://github.com/THUDM/AgentBench) | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
 | [Agent Hijacking, the true impact of prompt injection](https://dev.to/snyk/agent-hijacking-the-true-impact-of-prompt-injection-attacks-983) | Guide for attack langchain agents | Article |
 | [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org/pdf/2407.20859v1) | Research about typical agent vulnerabilities | Article |
@@ -422,6 +423,8 @@
 | [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
 | [Attestation Envelope Spec](https://github.com/TheColonyCC/attestation-envelope-spec) | Thin cross-platform spec for *verifiable agent attestation*: typed evidence pointers (structurally excludes self-signed assertions), content-hash pinning to catch pointer drift, ed25519/RFC-8785-JCS sigchains, and signed coverage metadata that turns silent omission into a positive negative-observation. Reference verifier + conformance tests. | ![GitHub stars](https://img.shields.io/github/stars/TheColonyCC/attestation-envelope-spec?style=social) |
+| [DOS Kernel](https://github.com/anthony-chaudhary/dos-kernel) | Deterministic trust kernel for agent fleets: verifies "done" claims from git evidence instead of self-report, arbitrates concurrent file access, audits commit claims against their own diffs. | ![GitHub stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) |
+| [Adrian](https://github.com/secureagentics/Adrian) | Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline. | ![GitHub stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) |
 
 
 ## Agentic Browser Security
@@ -434,6 +437,7 @@
 | [Agentic Browser Security Analysis](https://arxiv.org/html/2506.07153v2) | Research paper on security vulnerabilities in agentic browsers | Article |
 | [Browser AI Agents: The New Weakest Link](https://labs.sqrx.com/browser-ai-agents-the-new-weakest-link-22a38a552d7f) | Analysis of security risks in browser-based AI agents | Sqrx Labs |
 | [Comet Prompt Injection Vulnerability](https://brave.com/blog/comet-prompt-injection/) | Brave's analysis of prompt injection vulnerabilities in Perplexity Comet browser | Brave |
+| [🛡️ Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) | Open-source safety layer between browser-use AI agents and the web pages they visit. Masks PII/secrets, blocks prompt injection in invisible text and HTML comments, and strips dark patterns and noise. Chromium MV3 extension, also on Browserbase and ClawHub. | PixieBrix |
 
 ## PoC
 
@@ -492,6 +496,8 @@
 | [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) | Challenges to test your knowledge of AI, ML, and LLMs |
 | [TryHackMe AI/ML Security Threats](https://medium.com/genai-llm-security/tryhackme-ai-ml-security-threats-walkthrough-writeup-04abd3f717ca) | Walkthrough and writeup for TryHackMe AI/ML Security Threats room | Article |
 | [PromptTrace](https://prompttrace.airedlab.com) | Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. 10 labs + 15-level CTF (The Gauntlet) + 9 learning modules aligned with OWASP Top 10 for LLMs. |
+| [hego.red](https://hego.red/) | Practical, hands-on AI/LLM red teaming notes: prompt injection, jailbreaks, indirect injection, RAG poisoning, agent and tool attacks, with a full methodology and worked labs |
+| [AI RiskAtlas](https://riskatlas.principle.sg) | Free interactive learning lab for AI/LLM/agentic security. 91 sourced real-world incident cases with root-cause and architecture walkthroughs, 34 hands-on attack-scenario simulations, risk taxonomy cross-mapped to OWASP LLM Top 10 / MITRE ATLAS, and a preventive/detective/corrective control library. |
 
 ![image](https://github.com/user-attachments/assets/17d3149c-acc2-48c9-a318-bda0b4c175ce)
 
