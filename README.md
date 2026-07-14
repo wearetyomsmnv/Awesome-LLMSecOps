@@ -143,6 +143,11 @@
 <td>Open-source proxy gateway for AI API keys with AES-256-GCM encryption and instant kill switches. Protects against credential theft in agentic workflows.</td>
 <td><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/pezhik/skilltotal">🔧 SkillTotal</a></td>
+<td>Offline deterministic (regex + AST, no LLM, no account) static scanner for AI components — agent skills/plugins, MCP servers, npm &amp; PyPI packages, repos; detects supply-chain risk, dangerous capabilities, prompt-injection surfaces, MCP tool poisoning/shadowing, data-exfiltration paths; maps to OWASP Agentic Skills Top 10; JSON + SARIF 2.1.0</td>
+<td><img src="https://img.shields.io/github/stars/pezhik/skilltotal?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
