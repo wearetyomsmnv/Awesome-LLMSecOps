@@ -408,6 +408,7 @@
 | Tool | Description | Stars |
 |------|-------------|-------|
 | [invariant](https://github.com/invariantlabs-ai/invariant) | A trace analysis tool for AI agents. | ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) |
+| [Sunglasses](https://github.com/sunglasses-dev/sunglasses) | Runtime trust scanner for AI agents: 1,089 patterns across 65 attack categories (prompt injection, tool poisoning, MCP attacks) plus a mechanism layer. Pip package, GitHub Action, free web scan, published precision/recall benchmark. | ![GitHub stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social) |
 | [Nika](https://github.com/supernovae-st/nika) | Open-source Rust workflow engine for AI agents with security in the runtime: default-deny permits (fs/net/exec/tool allowlists), static secret-flow analysis before any run, cost floors, tamper-evident hash-chained traces verifiable via nika trace verify, read-only MCP oracle. | ![GitHub stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social) |
 | [AgentBench](https://github.com/THUDM/AgentBench) | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
 | [Agent Hijacking, the true impact of prompt injection](https://dev.to/snyk/agent-hijacking-the-true-impact-of-prompt-injection-attacks-983) | Guide for attack langchain agents | Article |
