@@ -482,6 +482,7 @@
 | [Invariant Labs CTF 2024](https://invariantlabs.ai/play-ctf-challenge-24) | CTF. You should hack LLM agentic |
 | [Invariant Labs CTF Summer 24](https://huggingface.co/spaces/invariantlabs/ctf-summer-24/tree/main) | Hugging Face Space with CTF challenges |
 | [Crucible](https://crucible.dreadnode.io/) | LLM security training platform |
+| [LLMVault](https://github.com/CyberSunil/LLMVault) | Open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 vulnerabilities |
 | [Poll Vault CTF](http://poll-vault.chal.hackthe.vote/) | CTF challenge with ML/LLM components |
 | [MyLLMDoc](https://myllmdoc.com/) | LLM security training platform |
 | [AI CTF PHDFest2 2025](https://aictf.phdays.fun/) | AI CTF competition from PHDFest2 2025 |
