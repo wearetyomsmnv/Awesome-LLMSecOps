@@ -422,9 +422,11 @@
 | [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) | Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling. | ![GitHub stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) |
 | [TealTiger](https://github.com/agentguard-ai/tealtiger) | Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language. | ![GitHub stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) |
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen. | ![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=social) |
+| [Attestation Envelope Spec](https://github.com/TheColonyCC/attestation-envelope-spec) | Thin cross-platform spec for *verifiable agent attestation*: typed evidence pointers (structurally excludes self-signed assertions), content-hash pinning to catch pointer drift, ed25519/RFC-8785-JCS sigchains, and signed coverage metadata that turns silent omission into a positive negative-observation. Reference verifier + conformance tests. | ![GitHub stars](https://img.shields.io/github/stars/TheColonyCC/attestation-envelope-spec?style=social) |
 | [DOS Kernel](https://github.com/anthony-chaudhary/dos-kernel) | Deterministic trust kernel for agent fleets: verifies "done" claims from git evidence instead of self-report, arbitrates concurrent file access, audits commit claims against their own diffs. | ![GitHub stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) |
 | [Adrian](https://github.com/secureagentics/Adrian) | Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline. | ![GitHub stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) |
 | [HOL Guard](https://github.com/hashgraph-online/hol-guard) | Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Scans skills, MCP servers, and plugins for supply-chain threats. | ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) |
+| [SourceryKit](https://github.com/ProvablyAI/sourcerykit) | Python SDK that verifies an agent's outbound requests against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Hooks into the HTTP libraries to log each call and block anything not on the trusted-endpoint allow-list, MCP handoffs included. | ![GitHub stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) |
 
 
 ## Agentic Browser Security
@@ -481,6 +483,7 @@
 | [Invariant Labs CTF 2024](https://invariantlabs.ai/play-ctf-challenge-24) | CTF. You should hack LLM agentic |
 | [Invariant Labs CTF Summer 24](https://huggingface.co/spaces/invariantlabs/ctf-summer-24/tree/main) | Hugging Face Space with CTF challenges |
 | [Crucible](https://crucible.dreadnode.io/) | LLM security training platform |
+| [LLMVault](https://github.com/CyberSunil/LLMVault) | Open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 vulnerabilities |
 | [Poll Vault CTF](http://poll-vault.chal.hackthe.vote/) | CTF challenge with ML/LLM components |
 | [MyLLMDoc](https://myllmdoc.com/) | LLM security training platform |
 | [AI CTF PHDFest2 2025](https://aictf.phdays.fun/) | AI CTF competition from PHDFest2 2025 |
@@ -681,6 +684,7 @@
 | [Lakera AI Security resource hub](https://docs.google.com/spreadsheets/d/1tv3d2M4-RO8xJYiXp5uVvrvGWffM-40La18G_uFZlRM/edit?gid=639798153#gid=639798153) | Google Sheets document |
 | [llm-testing-findings](https://github.com/BishopFox/llm-testing-findings/)| Templates with recommendations, CWE and other | 
 | [Arcanum Prompt Injection Taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy/tree/main) | Structured taxonomy of prompt injection attacks categorizing attack intents, techniques, and evasions. Resource for security researchers, AI developers, and red teamers. | ![GitHub stars](https://img.shields.io/github/stars/Arcanum-Sec/arc_pi_taxonomy?style=social) |
+| [awesome-agent-runtime-security](https://github.com/bureado/awesome-agent-runtime-security) | An imperfect, incomplete collection of projects proving the integrity of tools, tool descriptions, models, data sources, and provenance by combining isolation, sandboxing, security observability, and server-constrained or client-bound tokens. | ![Github_stars](https://img.shields.io/github/stars/bureado/awesome-agent-runtime-security?style=social) |
 
 </div>
 
