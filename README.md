@@ -429,7 +429,7 @@
 | [Adrian](https://github.com/secureagentics/Adrian) | Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline. | ![GitHub stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) |
 | [HOL Guard](https://github.com/hashgraph-online/hol-guard) | Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Scans skills, MCP servers, and plugins for supply-chain threats. | ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) |
 | [SourceryKit](https://github.com/ProvablyAI/sourcerykit) | Python SDK that verifies an agent's outbound requests against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Hooks into the HTTP libraries to log each call and block anything not on the trusted-endpoint allow-list, MCP handoffs included. | ![GitHub stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) |
-| [Trent AI](https://trent.ai) | Agentic AI security platform: AI-native threat modeling, security assessment, and remediation guidance for AI agents and LLM applications. | Website |
+| [Trent AI](https://trent.ai) | Agentic AI security platform that continuously assesses AI agents, MCP servers, LLM and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed. | Website |
 
 
 ## Agentic Browser Security
@@ -522,6 +522,7 @@
 | [📄 Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/pdf/2411.09523) | Multiple Authors | 2024 |
 | [📄 Practical AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/) | Meta | 2025 |
 | [📄 Security Advisory: Anthropic's Slack MCP Server Vulnerable to Data Exfiltration](https://embracethered.com/blog/posts/2025/security-advisory-anthropic-slack-mcp-server-data-leakage/) | Embrace The Red | 2025 |
+| [📄 ClawHub By The Numbers: What 52,652 Skills Reveal](https://trent.ai/blog/clawhub-by-the-numbers/) | Trent AI | 2026 |
 
 ## 🎓 Tutorials
 
@@ -709,4 +710,6 @@
 | [NIST AI TEVV](https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv) | AI Test, Evaluation, Validation and Verification framework by NIST | N/A |
 | [Taming the Beast: Inside the Llama 3 Red Teaming Process](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Aaron%20Grattafiori%20Ivan%20Evtimov%20Joanna%20Bitton%20Maya%20Pavlova%20-%20Taming%20the%20Beast%20-%20Inside%20the%20Llama%203%20Red%20Team%20Process.pdf) | DEF CON 32 presentation on Llama 3 red teaming | 2024 |
 | [SecLens](https://github.com/mattersec-labs/seclens) | Benchmark for evaluating LLMs on real-world vulnerability detection using 406 confirmed CVEs across 10 languages. Scores 12 frontier models through 5 stakeholder lenses and 35 dimensions aligned with OWASP categories. [Paper](https://arxiv.org/abs/2604.01637) | ![GitHub stars](https://img.shields.io/github/stars/mattersec-labs/seclens?style=social) |
+| [Benchmarking OpenClaw Skill Scanners](https://trent.ai/blog/openclaw-skill-scanner-benchmark/) | Benchmark of five skill scanners (NVIDIA SkillSpector, VirusTotal, ClawScan, static analysis) on 60 manually labeled ClawHub skills — 20 benign, 20 vulnerable, 20 malicious — across code-based and code-free attack vectors. Labeled dataset public. | Article |
+
 
