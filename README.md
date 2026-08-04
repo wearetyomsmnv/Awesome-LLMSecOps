@@ -409,6 +409,7 @@
 | Tool | Description | Stars |
 |------|-------------|-------|
 | [invariant](https://github.com/invariantlabs-ai/invariant) | A trace analysis tool for AI agents. | ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) |
+| [Sunglasses](https://github.com/sunglasses-dev/sunglasses) | Runtime trust scanner for AI agents: 1,089 patterns across 65 attack categories (prompt injection, tool poisoning, MCP attacks) plus a mechanism layer. Pip package, GitHub Action, free web scan, published precision/recall benchmark. | ![GitHub stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social) |
 | [Nika](https://github.com/supernovae-st/nika) | Open-source Rust workflow engine for AI agents with security in the runtime: default-deny permits (fs/net/exec/tool allowlists), static secret-flow analysis before any run, cost floors, tamper-evident hash-chained traces verifiable via nika trace verify, read-only MCP oracle. | ![GitHub stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social) |
 | [AgentBench](https://github.com/THUDM/AgentBench) | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
 | [Agent Hijacking, the true impact of prompt injection](https://dev.to/snyk/agent-hijacking-the-true-impact-of-prompt-injection-attacks-983) | Guide for attack langchain agents | Article |
@@ -430,6 +431,7 @@
 | [HOL Guard](https://github.com/hashgraph-online/hol-guard) | Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Scans skills, MCP servers, and plugins for supply-chain threats. | ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) |
 | [SourceryKit](https://github.com/ProvablyAI/sourcerykit) | Python SDK that verifies an agent's outbound requests against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Hooks into the HTTP libraries to log each call and block anything not on the trusted-endpoint allow-list, MCP handoffs included. | ![GitHub stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) |
 | [LEASH-8](https://github.com/Palo-Alto-AI-Research-Lab/agent-leash) | Control model for agents holding delegated authority, across eight domains: identity, secrets, tool/skill supply chain, approvals, containment, egress, observability, incident response. Ships a 24-statement scored self-assessment, the plan-vs-authorize gate pattern (model plans, policy decides, executor acts), an approval-design checklist for irreversible actions, and a reference A2A Agent Card. Docs and templates — no runtime component. | ![GitHub stars](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/agent-leash?style=social) |
+| [Trent AI](https://trent.ai) | Agentic AI security platform that continuously assesses AI agents, MCP servers, LLM and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed. | Website |
 
 
 ## Agentic Browser Security
@@ -487,6 +489,7 @@
 | [Invariant Labs CTF Summer 24](https://huggingface.co/spaces/invariantlabs/ctf-summer-24/tree/main) | Hugging Face Space with CTF challenges |
 | [Crucible](https://crucible.dreadnode.io/) | LLM security training platform |
 | [LLMVault](https://github.com/CyberSunil/LLMVault) | Open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 vulnerabilities |
+| [Jackpot](https://hego.red/jackpot) | Ten floor browser lab, one floor per OWASP LLM Top 10 category, with every win condition judged server side |
 | [Poll Vault CTF](http://poll-vault.chal.hackthe.vote/) | CTF challenge with ML/LLM components |
 | [MyLLMDoc](https://myllmdoc.com/) | LLM security training platform |
 | [AI CTF PHDFest2 2025](https://aictf.phdays.fun/) | AI CTF competition from PHDFest2 2025 |
@@ -522,6 +525,7 @@
 | [📄 Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents](https://arxiv.org/pdf/2411.09523) | Multiple Authors | 2024 |
 | [📄 Practical AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/) | Meta | 2025 |
 | [📄 Security Advisory: Anthropic's Slack MCP Server Vulnerable to Data Exfiltration](https://embracethered.com/blog/posts/2025/security-advisory-anthropic-slack-mcp-server-data-leakage/) | Embrace The Red | 2025 |
+| [📄 ClawHub By The Numbers: What 52,652 Skills Reveal](https://trent.ai/blog/clawhub-by-the-numbers/) | Trent AI | 2026 |
 
 ## 🎓 Tutorials
 
@@ -709,4 +713,6 @@
 | [NIST AI TEVV](https://www.nist.gov/ai-test-evaluation-validation-and-verification-tevv) | AI Test, Evaluation, Validation and Verification framework by NIST | N/A |
 | [Taming the Beast: Inside the Llama 3 Red Teaming Process](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Aaron%20Grattafiori%20Ivan%20Evtimov%20Joanna%20Bitton%20Maya%20Pavlova%20-%20Taming%20the%20Beast%20-%20Inside%20the%20Llama%203%20Red%20Team%20Process.pdf) | DEF CON 32 presentation on Llama 3 red teaming | 2024 |
 | [SecLens](https://github.com/mattersec-labs/seclens) | Benchmark for evaluating LLMs on real-world vulnerability detection using 406 confirmed CVEs across 10 languages. Scores 12 frontier models through 5 stakeholder lenses and 35 dimensions aligned with OWASP categories. [Paper](https://arxiv.org/abs/2604.01637) | ![GitHub stars](https://img.shields.io/github/stars/mattersec-labs/seclens?style=social) |
+| [Benchmarking OpenClaw Skill Scanners](https://trent.ai/blog/openclaw-skill-scanner-benchmark/) | Benchmark of five skill scanners (NVIDIA SkillSpector, VirusTotal, ClawScan, static analysis) on 60 manually labeled ClawHub skills — 20 benign, 20 vulnerable, 20 malicious — across code-based and code-free attack vectors. Labeled dataset public. | Article |
+
 
