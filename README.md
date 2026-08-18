@@ -433,6 +433,7 @@
 | [Quint](https://quintai.dev) | Behavioral security platform for AI agents: intercepts agent actions at the OS level (macOS EndpointSecurity) and LLM/MCP traffic via proxy, scores risk in real time, and produces tamper-proof signed audit trails. | Website |
 | [LEASH-8](https://github.com/Palo-Alto-AI-Research-Lab/agent-leash) | Control model for agents holding delegated authority, across eight domains: identity, secrets, tool/skill supply chain, approvals, containment, egress, observability, incident response. Ships a 24-statement scored self-assessment, the plan-vs-authorize gate pattern (model plans, policy decides, executor acts), an approval-design checklist for irreversible actions, and a reference A2A Agent Card. Docs and templates — no runtime component. | ![GitHub stars](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/agent-leash?style=social) |
 | [Trent AI](https://trent.ai) | Agentic AI security platform that continuously assesses AI agents, MCP servers, LLM and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed. | Website |
+| [AutonomyProof](https://github.com/autonomyproof/autonomyproof-cli) | Static security scanner for Python AI agents: proves what authority the agent holds and fails PRs granting new dangerous authority; publishes a zero-false-positive benchmark | ![GitHub stars](https://img.shields.io/github/stars/autonomyproof/autonomyproof-cli?style=social) |
 
 
 ## Agentic Browser Security
