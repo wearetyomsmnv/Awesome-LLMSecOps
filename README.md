@@ -83,6 +83,11 @@
 <th>Stars</th>
 </tr>
 <tr>
+<td><a href="https://github.com/NuGuardAI/nuguard">🔧 NuGuard</a></td>
+<td>Open-source CLI that builds an AI-SBOM, red-teams agentic AI apps for prompt injection/tool misuse/data exfiltration, and validates behavioral policy compliance with SARIF/JSON/Markdown export.</td>
+<td><img src="https://img.shields.io/github/stars/NuGuardAI/nuguard?style=social" alt="GitHub stars"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/leondz/garak">🔧 Garak</a></td>
 <td>LLM vulnerability scanner</td>
 <td><img src="https://img.shields.io/github/stars/leondz/garak?style=social" alt="GitHub stars"></td>
