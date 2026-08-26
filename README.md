@@ -524,6 +524,7 @@
 
 | Title | Authors | Year | 
 |-------|---------|------|
+| [📄 Local MCP Security: Why Loopback Is Not Enough](https://cadre.cam/guides/local-mcp-security.html) | Cadre Engineering | 2026 |
 | [📄 Bypassing Meta's LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
 | [📄 Detecting Prompt Injection: BERT-based Classifier](https://labs.withsecure.com/publications/detecting-prompt-injection-bert-based-classifier) | WithSecure Labs | 2024 |
@@ -722,5 +723,4 @@
 | [Taming the Beast: Inside the Llama 3 Red Teaming Process](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Aaron%20Grattafiori%20Ivan%20Evtimov%20Joanna%20Bitton%20Maya%20Pavlova%20-%20Taming%20the%20Beast%20-%20Inside%20the%20Llama%203%20Red%20Team%20Process.pdf) | DEF CON 32 presentation on Llama 3 red teaming | 2024 |
 | [SecLens](https://github.com/mattersec-labs/seclens) | Benchmark for evaluating LLMs on real-world vulnerability detection using 406 confirmed CVEs across 10 languages. Scores 12 frontier models through 5 stakeholder lenses and 35 dimensions aligned with OWASP categories. [Paper](https://arxiv.org/abs/2604.01637) | ![GitHub stars](https://img.shields.io/github/stars/mattersec-labs/seclens?style=social) |
 | [Benchmarking OpenClaw Skill Scanners](https://trent.ai/blog/openclaw-skill-scanner-benchmark/) | Benchmark of five skill scanners (NVIDIA SkillSpector, VirusTotal, ClawScan, static analysis) on 60 manually labeled ClawHub skills — 20 benign, 20 vulnerable, 20 malicious — across code-based and code-free attack vectors. Labeled dataset public. | Article |
-
 
