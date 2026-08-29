@@ -505,6 +505,7 @@
 | [DeepLearning.AI Red Teaming Course](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) | Short course on red teaming LLM applications |
 | [Learn Prompting: Offensive Measures](https://learnprompting.org/docs/prompt_hacking/offensive_measures/) | Guide on offensive prompt engineering techniques |
 | [Application Security LLM Testing](https://application.security/free/llm) | Free LLM security testing  |
+| [RansomLeak AI Security Training](https://ransomleak.com/catalogue/ai-security/) | Hands-on labs on prompt injection, LLM abuse, and AI-powered attack scenarios |
 | [Salt Security Blog: ChatGPT Extensions Vulnerabilities](https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data) | Article on security flaws in ChatGPT browser extensions |
 | [safeguarding-llms](https://github.com/sshkhr/safeguarding-llms) | TMLS 2024 Workshop: A Practitioner's Guide To Safeguarding Your LLM Applications |
 | [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) | Intentionally vulnerable LLM agent for security testing and education |
