@@ -72,6 +72,7 @@
 </div>
 <div align="center">
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source GPL-3.0 autonomous AI penetration testing framework driven by per-technology LLM sub-agents; self-hosted, runs fully local, with a Privacy Gateway that tokenises sensitive data so the model never sees real secrets.
 <h2>🛠 Tools for scanning</h2>
 
 *Security scanning and vulnerability assessment tools for LLM applications.*
