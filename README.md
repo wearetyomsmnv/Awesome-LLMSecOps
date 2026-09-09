@@ -329,6 +329,7 @@
 |[ai-evaluation by Future AGI](https://github.com/future-agi/ai-evaluation) | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support. |
 |[Future AGI](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. |
 |[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) |  AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend) |
+|[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records a coding agent at the HTTP boundary and keeps the verbatim request and response bytes, so an incident can be re-executed offline from the trace rather than reconstructed from logs. Traces stay on disk; `orca scrub --match` redacts a trace in place. |
 
 ## Watermarking
 
