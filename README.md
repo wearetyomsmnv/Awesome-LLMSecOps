@@ -108,6 +108,11 @@
 <td><img src="https://img.shields.io/github/stars/msoedov/agentic_security?style=social" alt="GitHub stars"></td>
 </tr>
 <tr>
+<td><a href="https://www.deepkeep.ai/lp/vibe-ai-red-teaming">🛡️ DeepKeep Vibe AI Red Teaming</a></td>
+<td>AI red teaming platform for AI applications, chatbots, and autonomous agents, combining automated testing with operator-steered adaptive sessions through Reddy, DeepKeep's red teaming agent.</td>
+<td>N/A</td>
+</tr>
+<tr>
 <td><a href="https://github.com/ArmorerLabs/Armorer-Guard">🛡️ Armorer Guard</a></td>
 <td>Rust-native local scanner for AI-agent prompt injection, credential leakage, exfiltration, MCP context, and dangerous tool-call enforcement.</td>
 <td><img src="https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social" alt="GitHub stars"></td>
