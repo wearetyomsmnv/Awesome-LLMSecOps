@@ -529,6 +529,7 @@
 
 | Title | Authors | Year | 
 |-------|---------|------|
+| [📄 mistral-common: One Image URL Can Hang the Encode Worker](https://hackerbane.com/reports/hackerbane-HB-AR-2026.12-mistral-common-image-url.html) | Hackerbane | 2026 |
 | [📄 Local MCP Security: Why Loopback Is Not Enough](https://cadre.cam/guides/local-mcp-security.html) | Cadre Engineering | 2026 |
 | [📄 Bypassing Meta's LLaMA Classifier: A Simple Jailbreak](https://www.robustintelligence.com/blog-posts/bypassing-metas-llama-classifier-a-simple-jailbreak) | Robust Intelligence | 2024 |
 | [📄 Vulnerabilities in LangChain Gen AI](https://unit42.paloaltonetworks.com/langchain-vulnerabilities/) | Unit42 | 2024 |
