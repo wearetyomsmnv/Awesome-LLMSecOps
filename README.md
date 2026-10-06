@@ -292,6 +292,7 @@
 </tr>
   <tr><td><a href="https://github.com/agentguard-ai/tealtiger">🛡️ TealTiger</a></td><td>Deterministic runtime governance for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence). 500+ secret patterns, tool allowlisting, SARIF export, Docker sidecar. No LLM in the decision path.</td><td><img src="https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social" alt="GitHub stars"></td></tr>
   <tr><td><a href="https://github.com/kmori-source/shani">🔐 Shani</a></td><td>Open-source decision governance layer for AI agents. Signed ADO (Authorized Decision Object), HMAC-SHA256 signatures, nonce-based replay prevention, HITL approval (Slack/webhook/CLI), tamper-evident audit trail. Works with LangGraph, AutoGen, nanoclaw. Apache 2.0.</td><td><img src="https://img.shields.io/github/stars/kmori-source/shani?style=social" alt="GitHub stars"></td></tr>
+  <tr><td><a href="https://github.com/AffixIO/SDK">🛡️ AffixIO</a></td><td>Agentic Pay Kit (npm <code>affixio</code>) with host-side signed yes/no ACTION attestation before pay (x402BeforePay / Agentic Pay / KYA; not person KYC). <a href="https://www.npmjs.com/package/affixio">npm</a> · <a href="https://www.affix-io.com/agent-trust/">docs</a></td><td><img src="https://img.shields.io/github/stars/AffixIO/SDK?style=social" alt="GitHub stars"></td></tr>
 </table>
 
 </div>
