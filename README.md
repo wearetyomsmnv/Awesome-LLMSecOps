@@ -148,6 +148,11 @@
 <td>Open-source proxy gateway for AI API keys with AES-256-GCM encryption and instant kill switches. Protects against credential theft in agentic workflows.</td>
 <td><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/ppcvote/ultraprobe">🔧 UltraProbe</a></td>
+<td>Deterministic static audit of system prompts and agent tool descriptions (including MCP tools) for 25 missing prompt-injection defenses mapped to OWASP LLM Top 10 and ASI01-ASI09. No model calls; SARIF output for CI. Complements dynamic red-teaming tools.</td>
+<td><img src="https://img.shields.io/github/stars/ppcvote/ultraprobe?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
