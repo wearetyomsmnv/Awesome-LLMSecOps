@@ -605,6 +605,7 @@
 | [OK ML](https://t.me/okmlai) | RU | ML/DS/AI channel with focus on repositories, tools and vulnerabilities |
 | [AI Attacks](https://t.me/aiattacks) | EN | Stream of AI attack examples and threat intelligence |
 | [AGI Security](https://t.me/agisec) | EN | Artificial General Intelligence Security discussions |
+| [A-Znk's trajectory](https://t.me/A_ZNKV) | ZH/EN | Chinese-first research notes on AI safety, LLM/agent security, model reliability, and practical AI engineering |
 
 ## DATA
 
