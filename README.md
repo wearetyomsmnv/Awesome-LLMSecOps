@@ -148,6 +148,11 @@
 <td>Open-source proxy gateway for AI API keys with AES-256-GCM encryption and instant kill switches. Protects against credential theft in agentic workflows.</td>
 <td><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/samugit83/redamon">🔧 RedAmon</a></td>
+<td>Self-hosted AI pentest framework that finds LLM endpoints on a target's attack surface and runs garak, PyRIT, Giskard and promptfoo against them, recording confirmed weaknesses as OWASP-LLM / MITRE-ATLAS-mapped findings with evidence transcripts.</td>
+<td><img src="https://img.shields.io/github/stars/samugit83/redamon?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
