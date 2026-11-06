@@ -584,6 +584,7 @@
 | [NCSC](https://www.ncsc.gov.uk/blog) | UK National Cyber Security Centre blog on AI safeguards |
 | [Knostic](https://www.knostic.ai/blog) | AI Security Posture Management (AISPM) |
 | [0din](https://0din.ai/blog) | Secure LLM and RAG deployment practices |
+| [promptinjections.de](https://promptinjections.de/) | German-language reference on prompt injection: techniques, glossary, CVE list, monthly Threat Index |
 | [@llm_sec](https://twitter.com/llm_sec) | Twitter feed on LLM security |
 | [@LLM_Top10](https://twitter.com/LLM_Top10) | Twitter feed on OWASP LLM Top 10 |
 | [@aivillage_dc](https://twitter.com/aivillage_dc) | AI Village Twitter |
