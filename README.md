@@ -446,6 +446,7 @@
 | [Agenthof](https://github.com/agenthof/agenthof) | Governance control plane that mediates an agent's model, tool/MCP, and exec calls from outside the model: per-call credential injection so the agent never holds a secret, per-agent least-privilege (per-tool allowlists, read-only grants, default-deny), and a hash-chained, tamper-evident audit ledger. Apache-2.0, Go. | ![GitHub stars](https://img.shields.io/github/stars/agenthof/agenthof?style=social) |
 
 
+| [StackGrade Safety watch](https://stackgrade.app/warnings/) | Weekly automated scan of AI agent tools for dependency vulns, install hooks and risky agent/skill instructions | Website |
 ## Agentic Browser Security
 
 *Security research and analysis of AI-powered browser agents and their unique attack vectors.*
